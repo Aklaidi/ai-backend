@@ -1,0 +1,1001 @@
+employee_first_name,employee_last_name,employee_address,contributor_first_name,contributor_last_name,contributor_address,label
+John,Wright,"6556 Valley Rd, San Antonio, AZ 73244",John,Wright,"6556 Valley Rd, San Antonio, AZ 73244 Apt 26",1
+Rob,Williams,"5968 Elm Street, Phoenix, MI 54472",Rob C.,Williams,"2911 Elm Street, Philadelphia, PA 80316",0
+Jane,Brown,"6761 Apple Dr, Chicago, GA 22887",Jane K.,Brown,"4837 Oak Ave, Houston, IL 30708",0
+Mary,Martinez,"3981 Apple Dr, San Diego, NC 80605",Mary,Martinez,"8281 Elm Street, San Diego, NY 62835",0
+Karen,Johnson,"8076 Apple Dr, Houston, AZ 65788",Karen,Johnson,"8076 Apple Dr, Los Angeles, AZ 65788",0
+Adam,Martinez,"922 Sunset Blvd, San Diego, TX 69135",Adam,Martinez,"922 Sunset Blvd, San Diego, TX 69135",1
+Mary,Wilson,"1635 Sunset Blvd, New York, PA 70832",Mary,Wilson,"7721 Cedar Ct, Houston, IL 67411",0
+Karen,Martinez,"1109 Pine Ln, Chicago, GA 16256",Karen H.,Martinez,"3133 Maple Rd, Chicago, GA 51981",0
+John,Anderson,"9911 Redwood St, Philadelphia, PA 65349",John,Anderson,,0
+Michael,Anderson,"8525 Pine Ln, Phoenix, FL 56396",Michael,Anderson,"8525 Pine Ln, Phoenix, FL 56396 Apt 14",1
+Anna,Wright,"1455 Valley Rd, San Diego, PA 57638",Anna,Wright,,0
+Adam,Miller,"3363 Birch Dr, Chicago, CA 73328",Adam,Miller,"3363 Birch Dr, Chicago, CA 73328 Apt 12",1
+Karen,Kim,"8248 Oak Ave, Houston, TX 12709",Karen,Kim,,0
+Lisa,Clark,"5622 Maple Rd, San Jose, PA 50291",Lisa,Clark,"5622 Maple Rd, San Antonio, PA 50291",0
+Chris,Allen,,Chris,Allen,,1
+Rob,Wright,"76 Cedar Ct, Dallas, NY 59625",Rob,Wright,"76 Cedar Ct, Dallas, NY 59625",1
+Adam,Taylor,"8901 Apple Dr, Dallas, IL 69661",Adam,Taylor,"8901 Apple Dr, Dallas, IL 69661",1
+Karen,Brown,"8168 Apple Dr, San Jose, PA 64693",Karen A.,Brown,"3833 Pine Ln, San Antonio, TX 41676",0
+Anna,Kim,"4832 Oak Ave, Philadelphia, GA 12380",Anna,Kim,"3725 Sunset Blvd, Houston, NC 16756",0
+Diana,Kim,"3093 Pine Ln, Philadelphia, FL 75380",Diana,Kim,"8340 Elm Street, Phoenix, NC 18819",0
+Diana,Wilson,,Diana E.,Wilson,"5665 Apple Dr, Philadelphia, AZ 35635",0
+Karen,Clark,"9127 Sunset Blvd, Los Angeles, PA 40679",Karen,Clark,"4899 Elm Street, San Jose, IL 20248",0
+Karen,Williams,"7017 Apple Dr, Dallas, AZ 76133",Karen,Williams,"7017 Apple Dr, Dallas, AZ 76133",1
+Jane,Wright,"6253 Pine Ln, Chicago, FL 86561",Jane D.,Wright,"6936 Cedar Ct, Phoenix, NC 31106",0
+Michael,Lee,"9754 Birch Dr, Phoenix, AZ 34349",Michael,Lee,"9754 Birch Dr, Chicago, AZ 34349",0
+Chris,Davis,"290 Birch Dr, San Jose, PA 18715",Chris,Davis,"6385 Apple Dr, San Jose, PA 99195",0
+Diana,Kim,"2537 Pine Ln, Houston, GA 38763",Diana C.,Kim,"3002 Sunset Blvd, Houston, NY 59925",0
+Karen,Davis,,Karen,Davis,,0
+Chris,Anderson,"9440 Maple Rd, San Diego, TX 21807",Chris,Anderson,,0
+Mary,Lee,"966 Birch Dr, New York, PA 43268",Mary,Lee,"966 Birch Dr, New York, PA 43268",1
+Adam,Kim,"3383 Elm Street, Los Angeles, CA 76892",Adam,Kim,,0
+Chris,Brown,"3020 Cedar Ct, San Antonio, PA 62259",Chris,Brown,"3020 Cedar Ct, San Antonio, PA 62259 Apt 35",1
+Sarah,Allen,"5706 Sunset Blvd, Houston, GA 45666",Sarah,Allen,"5706 Sunset Blvd, Houston, GA 45666 Apt 39",1
+Adam,Wright,"7250 Sunset Blvd, Phoenix, GA 99454",Adam,Wright,"7250 Sunset Blvd, Chicago, GA 99454",0
+Rob,Wright,"4784 Oak Ave, New York, GA 72304",Rob,Wright,,0
+Karen,Wright,"1309 Valley Rd, Dallas, GA 91506",Karen,Wright,,0
+Sarah,Allen,"6507 Apple Dr, Los Angeles, TX 88865",Sarah,Allen,"9547 Oak Ave, Houston, NC 29697",0
+Dave,Williams,,Dave,Williams,,0
+John,Taylor,"2999 Redwood St, San Diego, MI 20159",John,Taylor,"2999 Redwood St, San Diego, MI 20159",1
+Adam,Taylor,"939 Redwood St, San Antonio, NY 88372",Adam,Taylor,"1736 Apple Dr, Houston, CA 36168",0
+Karen,Anderson,,Karen,Anderson,,0
+Lisa,Miller,"4216 Oak Ave, San Antonio, NY 45222",Lisa,Miller,"4216 Oak Ave, San Antonio, NY 45222 Apt 25",1
+Lisa,Davis,"9242 Valley Rd, Houston, TX 18285",Lisa C.,Davis,"8438 Apple Dr, Houston, CA 55626",0
+Michael,Anderson,"5044 Valley Rd, San Jose, AZ 12737",Michael H.,Anderson,"3165 Elm Street, Philadelphia, NY 49558",0
+Mary,Smith,"4831 Pine Ln, Dallas, AZ 75656",Mary,Smith,"4831 Pine Ln, Dallas, AZ 75656",1
+Sarah,Miller,"3361 Apple Dr, Chicago, NY 41782",Sarah C.,Miller,"609 Sunset Blvd, Los Angeles, TX 92370",0
+Jane,Allen,"479 Elm Street, Los Angeles, PA 33648",Jane,Allen,"370 Oak Ave, New York, IL 72521",0
+Karen,Martinez,"7631 Oak Ave, New York, TX 92815",Karen,Martinez,"7631 Oak Ave, New York, TX 92815",1
+Marcus,Lee,"981 Maple Rd, San Antonio, CA 70614",Marcus,Lee,"981 Maple Rd, San Antonio, CA 70614 Apt 41",1
+Karen,Taylor,"7673 Birch Dr, Houston, TX 65519",Karen,Taylor,"7673 Birch Dr, Houston, TX 65519",1
+Chris,Wilson,"4029 Elm Street, San Jose, CA 72841",Chris,Wilson,,0
+Lisa,Anderson,,Lisa,Anderson,,0
+Lisa,Lee,"3177 Redwood St, Dallas, MI 75927",Lisa,Lee,"1030 Valley Rd, San Jose, NY 22885",0
+Diana,Clark,"4352 Cedar Ct, Chicago, PA 36950",Diana,Clark,"4352 Cedar Ct, Chicago, PA 36950 Apt 5",1
+John,Wright,"2621 Cedar Ct, Dallas, NY 49763",John,Wright,"2621 Cedar Ct, Dallas, NY 49763",1
+Anna,Williams,"4032 Apple Dr, New York, GA 12737",Anna,Williams,"6616 Cedar Ct, Houston, NY 57482",0
+Jane,Anderson,"4156 Apple Dr, Los Angeles, CA 29381",Jane E.,Anderson,"5559 Elm Street, Chicago, MI 91057",0
+Michael,Miller,"8852 Oak Ave, Houston, GA 21801",Michael,Miller,"8852 Oak Ave, Phoenix, GA 21801",0
+Rob,Martinez,"6434 Valley Rd, Houston, NC 23613",Rob,Martinez,"6434 Valley Rd, Houston, NC 23613 Apt 1",1
+Chris,Anderson,"7089 Valley Rd, San Antonio, GA 48858",Chris,Anderson,"7842 Oak Ave, San Jose, MI 19692",0
+Rob,Allen,"7241 Cedar Ct, Houston, GA 28066",Rob,Allen,"3258 Valley Rd, Chicago, AZ 61366",0
+Mary,Kim,"1735 Oak Ave, Phoenix, PA 88255",Mary,Kim,"5893 Pine Ln, San Jose, NC 61996",0
+Mary,Taylor,"8427 Cedar Ct, New York, GA 15378",Mary,Taylor,"8427 Cedar Ct, New York, GA 15378",1
+Diana,Miller,"9657 Sunset Blvd, Los Angeles, FL 78142",Diana,Miller,"9657 Sunset Blvd, Los Angeles, FL 78142",1
+Dave,Williams,"8206 Valley Rd, San Antonio, IL 21444",Dave,Williams,"8206 Valley Rd, San Antonio, IL 21444 Apt 24",1
+Chris,Johnson,,Chris,Johnson,,1
+Marcus,Miller,"6446 Oak Ave, Houston, NC 46128",Marcus A.,Miller,"4955 Apple Dr, Houston, CA 29076",0
+Jane,Kim,"3245 Redwood St, San Jose, IL 71912",Jane,Kim,"3245 Redwood St, San Jose, IL 71912 Apt 26",1
+Mary,Taylor,"3694 Pine Ln, New York, IL 31420",Mary,Taylor,,0
+Chris,Allen,"1037 Valley Rd, Phoenix, GA 36890",Chris,Allen,"1037 Valley Rd, Phoenix, GA 36890 Apt 12",1
+Mary,Davis,,Mary,Davis,,0
+Diana,Smith,"9475 Oak Ave, Los Angeles, NY 76144",Diana,Smith,"2396 Apple Dr, Chicago, MI 25928",0
+John,Lee,"1278 Sunset Blvd, Philadelphia, AZ 86434",John,Lee,"1278 Sunset Blvd, Dallas, AZ 86434",0
+Diana,Smith,"4926 Cedar Ct, Los Angeles, MI 98753",Diana,Smith,"4926 Cedar Ct, San Diego, MI 98753",0
+Anna,Martinez,"8513 Birch Dr, New York, NC 18332",Anna F.,Martinez,"2307 Valley Rd, San Antonio, MI 82919",0
+John,Wright,"2765 Birch Dr, Dallas, NY 78179",John,Wright,,0
+Diana,Taylor,"5326 Apple Dr, Phoenix, TX 84466",Diana,Taylor,"5326 Apple Dr, Phoenix, TX 84466",1
+Karen,Taylor,"3226 Redwood St, San Diego, FL 21067",Karen,Taylor,"5721 Maple Rd, Chicago, GA 84892",0
+Adam,Anderson,"6372 Elm Street, Philadelphia, IL 17684",Adam,Anderson,"6372 Elm Street, Philadelphia, IL 17684",1
+Lisa,Johnson,"810 Elm Street, Chicago, FL 66612",Lisa,Johnson,"810 Elm Street, Chicago, FL 66612 Apt 18",1
+Anna,Taylor,,Anna,Taylor,,0
+Lisa,Miller,"3467 Apple Dr, Dallas, NC 24230",Lisa,Miller,"3467 Apple Dr, Dallas, NC 24230",1
+Michael,Miller,"7055 Pine Ln, Houston, NY 32203",Michael,Miller,,0
+Jane,Johnson,"6000 Sunset Blvd, San Jose, CA 46993",Jane E.,Johnson,"3338 Pine Ln, San Antonio, NC 69465",0
+Anna,Kim,,Anna,Kim,"9010 Cedar Ct, Dallas, NY 49809",0
+Anna,Lee,"7567 Redwood St, Dallas, PA 59437",Anna A.,Lee,"4042 Sunset Blvd, San Antonio, CA 21756",0
+Mary,Davis,"2091 Maple Rd, San Antonio, GA 68133",Mary K.,Davis,"104 Pine Ln, Houston, PA 15708",0
+Jane,Miller,"1690 Pine Ln, San Diego, GA 14220",Jane A.,Miller,"5459 Pine Ln, Phoenix, CA 65723",0
+Rob,Smith,"4968 Sunset Blvd, Philadelphia, CA 18036",Rob,Smith,,0
+Dave,Williams,"2472 Apple Dr, Philadelphia, MI 11455",Dave,Williams,"2472 Apple Dr, Philadelphia, MI 11455 Apt 27",1
+Sarah,Clark,"9369 Oak Ave, Los Angeles, FL 25523",Sarah,Clark,,0
+John,Johnson,"1426 Apple Dr, Philadelphia, GA 39253",John,Johnson,,0
+Adam,Clark,"4873 Birch Dr, Phoenix, AZ 35293",Adam,Clark,"4873 Birch Dr, Phoenix, AZ 35293",1
+Chris,Smith,"1558 Oak Ave, San Diego, IL 95925",Chris,Smith,"1558 Oak Ave, San Diego, IL 95925",1
+Adam,Johnson,"4035 Valley Rd, San Jose, PA 78688",Adam A.,Johnson,,0
+Adam,Brown,"1091 Redwood St, Phoenix, TX 44065",Adam,Brown,"501 Pine Ln, Philadelphia, TX 23975",0
+Lisa,Williams,"6692 Valley Rd, Phoenix, PA 43398",Lisa,Williams,"6692 Valley Rd, Phoenix, PA 43398",1
+John,Anderson,"2856 Valley Rd, Chicago, TX 28972",John,Anderson,,0
+Karen,Johnson,,Karen,Johnson,,0
+Marcus,Miller,"6992 Birch Dr, Phoenix, FL 22902",Marcus,Miller,,0
+Jane,Wright,"4001 Oak Ave, Los Angeles, AZ 35483",Jane,Wright,,0
+Diana,Davis,"8530 Sunset Blvd, San Jose, MI 16204",Diana,Davis,,0
+Sarah,Kim,"7546 Elm Street, Chicago, FL 58640",Sarah,Kim,"7546 Elm Street, Chicago, FL 58640 Apt 43",1
+Karen,Taylor,"8667 Redwood St, Dallas, MI 37786",Karen,Taylor,"1959 Valley Rd, Dallas, AZ 32541",0
+Lisa,Wright,"5007 Redwood St, Houston, TX 67129",Lisa,Wright,"5007 Redwood St, Houston, TX 67129",1
+Sarah,Wright,"5773 Cedar Ct, San Diego, TX 14292",Sarah,Wright,"5773 Cedar Ct, San Diego, TX 14292",1
+Rob,Martinez,"4091 Apple Dr, Phoenix, GA 86361",Rob A.,Martinez,"1126 Redwood St, New York, FL 92890",0
+Mary,Smith,"147 Elm Street, San Jose, NY 88549",Mary,Smith,"147 Elm Street, San Jose, NY 88549",1
+Marcus,Johnson,"5232 Pine Ln, San Diego, GA 73949",Marcus,Johnson,"5232 Pine Ln, San Diego, GA 73949",1
+Lisa,Williams,"7036 Redwood St, New York, PA 81189",Lisa,Williams,,0
+Mary,Anderson,"7258 Oak Ave, Chicago, TX 37750",Mary,Anderson,,0
+Diana,Allen,"7823 Valley Rd, Phoenix, NC 66235",Diana,Allen,,0
+Rob,Martinez,"5097 Birch Dr, New York, PA 86244",Rob H.,Martinez,"5201 Apple Dr, Los Angeles, NY 25150",0
+Chris,Taylor,"2194 Sunset Blvd, Houston, MI 89087",Chris,Taylor,"2194 Sunset Blvd, Houston, MI 89087",1
+Rob,Wilson,"6068 Birch Dr, San Antonio, NY 49843",Rob,Wilson,"6068 Birch Dr, San Antonio, NY 49843",1
+Mary,Brown,"3434 Apple Dr, Philadelphia, TX 64567",Mary,Brown,"3434 Apple Dr, Philadelphia, TX 64567 Apt 32",1
+John,Clark,"7060 Cedar Ct, San Antonio, AZ 32314",John,Clark,,0
+Maria,Anderson,"2836 Elm Street, Chicago, PA 97721",Maria,Anderson,,0
+Lisa,Martinez,"8078 Valley Rd, San Diego, NC 88588",Lisa,Martinez,"8078 Valley Rd, New York, NC 88588",0
+Adam,Williams,"4553 Birch Dr, Philadelphia, TX 97349",Adam,Williams,"4553 Birch Dr, Houston, TX 97349",0
+John,Clark,"3736 Elm Street, San Diego, GA 96545",John,Clark,"3736 Elm Street, San Diego, GA 96545",1
+Karen,Wilson,"2019 Pine Ln, San Diego, NY 47640",Karen,Wilson,,0
+Michael,Brown,"6607 Sunset Blvd, Houston, MI 24378",Michael,Brown,"6607 Sunset Blvd, Houston, MI 24378 Apt 14",1
+Jane,Johnson,"8794 Redwood St, New York, MI 14075",Jane,Johnson,"8794 Redwood St, New York, MI 14075",1
+Michael,Smith,"8883 Sunset Blvd, Dallas, PA 91340",Michael G.,Smith,,0
+Karen,Lee,"200 Sunset Blvd, San Diego, PA 26638",Karen,Lee,"200 Sunset Blvd, San Diego, PA 26638 Apt 15",1
+Karen,Kim,"7624 Birch Dr, Philadelphia, GA 65759",Karen,Kim,,0
+Mary,Kim,"5267 Birch Dr, Philadelphia, AZ 11347",Mary,Kim,"5267 Birch Dr, Philadelphia, AZ 11347",1
+Maria,Kim,"8142 Pine Ln, Los Angeles, IL 12720",Maria,Kim,"8142 Pine Ln, Los Angeles, IL 12720 Apt 39",1
+Mary,Williams,"4449 Oak Ave, San Jose, CA 91759",Mary K.,Williams,"9013 Apple Dr, San Antonio, IL 97149",0
+John,Wright,"5520 Redwood St, Los Angeles, IL 48796",John,Wright,"9094 Apple Dr, Dallas, NY 88180",0
+Lisa,Taylor,"281 Valley Rd, Phoenix, TX 76825",Lisa,Taylor,"281 Valley Rd, Phoenix, TX 76825",1
+Marcus,Anderson,"8968 Pine Ln, Los Angeles, CA 54009",Marcus G.,Anderson,"961 Valley Rd, Chicago, AZ 41385",0
+Dave,Allen,,Dave,Allen,,0
+John,Clark,"8233 Maple Rd, Los Angeles, TX 12550",John,Clark,"6117 Sunset Blvd, San Antonio, NY 22967",0
+Lisa,Brown,"7457 Valley Rd, Phoenix, NC 93928",Lisa D.,Brown,"8285 Maple Rd, Philadelphia, PA 82739",0
+Maria,Kim,,Maria,Kim,"6391 Birch Dr, Phoenix, NC 17590",0
+Michael,Williams,"4973 Sunset Blvd, Chicago, TX 89517",Michael J.,Williams,"8131 Redwood St, San Antonio, NC 61557",0
+Diana,Wright,"9981 Pine Ln, Houston, TX 81867",Diana,Wright,"9981 Pine Ln, Houston, TX 81867",1
+Sarah,Williams,"1955 Sunset Blvd, Dallas, GA 43630",Sarah,Williams,"1955 Sunset Blvd, Dallas, GA 43630",1
+Sarah,Wright,"9005 Elm Street, New York, IL 28122",Sarah,Wright,"7186 Cedar Ct, Dallas, TX 47497",0
+Chris,Brown,,Chris,Brown,,0
+Jane,Clark,"8147 Birch Dr, Chicago, MI 72597",Jane E.,Clark,"4878 Sunset Blvd, Phoenix, PA 37579",0
+Karen,Taylor,"1711 Oak Ave, San Jose, TX 83981",Karen,Taylor,"1711 Oak Ave, San Jose, TX 83981 Apt 45",1
+Sarah,Smith,"104 Oak Ave, Houston, PA 41462",Sarah,Smith,,0
+Anna,Martinez,"7229 Redwood St, San Diego, CA 64650",Anna,Martinez,"7229 Redwood St, San Diego, CA 64650",1
+Jane,Smith,"3967 Elm Street, San Jose, CA 31494",Jane,Smith,"3967 Elm Street, San Jose, CA 31494 Apt 49",1
+John,Clark,"6578 Oak Ave, San Diego, PA 70965",John A.,Clark,"4705 Redwood St, Los Angeles, MI 71164",0
+Adam,Wright,"8888 Elm Street, Houston, PA 35753",Adam,Wright,,0
+Diana,Williams,"7988 Maple Rd, Houston, IL 12098",Diana,Williams,"7988 Maple Rd, Houston, IL 12098 Apt 23",1
+Rob,Brown,"9191 Apple Dr, San Diego, IL 92818",Rob,Brown,"9191 Apple Dr, San Diego, IL 92818",1
+Sarah,Lee,"8399 Pine Ln, Los Angeles, FL 16933",Sarah,Lee,"8399 Pine Ln, San Jose, FL 16933",0
+Sarah,Wilson,"4168 Oak Ave, Los Angeles, AZ 78546",Sarah,Wilson,"4168 Oak Ave, Los Angeles, AZ 78546",1
+Dave,Wright,"1904 Redwood St, Philadelphia, CA 62356",Dave,Wright,"5979 Sunset Blvd, San Jose, GA 10855",0
+Jane,Clark,"9530 Cedar Ct, Los Angeles, GA 61625",Jane,Clark,"8170 Oak Ave, Houston, NC 28885",0
+John,Clark,"1744 Valley Rd, San Antonio, NY 21104",John,Clark,,0
+Dave,Anderson,,Dave,Anderson,,0
+Jane,Kim,"490 Cedar Ct, San Jose, NY 66133",Jane,Kim,"490 Cedar Ct, San Jose, NY 66133",1
+Dave,Wilson,,Dave,Wilson,,1
+John,Davis,"8761 Valley Rd, New York, NC 43130",John,Davis,,0
+Lisa,Brown,"3791 Pine Ln, New York, PA 98987",Lisa,Brown,"1631 Valley Rd, Los Angeles, NC 86144",0
+Karen,Kim,"1813 Cedar Ct, Houston, NY 85985",Karen,Kim,"1818 Sunset Blvd, New York, NC 12251",0
+Marcus,Smith,"2056 Maple Rd, Dallas, FL 15031",Marcus,Smith,"2056 Maple Rd, Dallas, FL 15031",1
+John,Brown,"8824 Pine Ln, San Jose, FL 23791",John,Brown,"8824 Pine Ln, San Jose, FL 23791",1
+Diana,Wright,"7662 Cedar Ct, San Diego, CA 23335",Diana,Wright,"7662 Cedar Ct, New York, CA 23335",0
+Marcus,Kim,"8103 Oak Ave, Los Angeles, CA 57054",Marcus,Kim,"8103 Oak Ave, Los Angeles, CA 57054 Apt 48",1
+Anna,Smith,"9842 Birch Dr, San Antonio, NY 99172",Anna,Smith,,0
+Chris,Clark,"1730 Pine Ln, New York, FL 41686",Chris,Clark,"1730 Pine Ln, New York, FL 41686",1
+Karen,Williams,"9942 Oak Ave, Los Angeles, IL 61325",Karen,Williams,"9942 Oak Ave, Los Angeles, IL 61325 Apt 50",1
+Jane,Wilson,"6539 Valley Rd, Houston, NY 25352",Jane,Wilson,"6539 Valley Rd, Houston, NY 25352 Apt 24",1
+Marcus,Smith,"1808 Elm Street, New York, GA 29589",Marcus,Smith,"3560 Elm Street, San Diego, NC 85815",0
+Lisa,Allen,"6858 Cedar Ct, Chicago, PA 93317",Lisa,Allen,,0
+Anna,Anderson,"6162 Valley Rd, San Antonio, AZ 96643",Anna F.,Anderson,"1172 Cedar Ct, Houston, PA 22743",0
+Michael,Martinez,"6761 Maple Rd, San Antonio, FL 84111",Michael A.,Martinez,"9976 Redwood St, Phoenix, IL 50581",0
+Lisa,Kim,"3754 Redwood St, Philadelphia, FL 29051",Lisa,Kim,,0
+Lisa,Lee,"3111 Birch Dr, Chicago, NC 52180",Lisa,Lee,"3111 Birch Dr, Chicago, NC 52180 Apt 44",1
+Dave,Anderson,"5390 Pine Ln, San Diego, AZ 62316",Dave,Anderson,,0
+Jane,Martinez,"7677 Oak Ave, San Diego, TX 53282",Jane D.,Martinez,"7949 Apple Dr, Phoenix, NY 76444",0
+Maria,Lee,,Maria,Lee,"3223 Cedar Ct, San Jose, FL 16558",0
+Anna,Davis,"7966 Oak Ave, Dallas, PA 49040",Anna,Davis,"7570 Apple Dr, Chicago, NC 95870",0
+Dave,Johnson,"3231 Birch Dr, San Antonio, CA 96620",Dave,Johnson,"3231 Birch Dr, Houston, CA 96620",0
+Mary,Wright,"3524 Elm Street, Philadelphia, NY 28862",Mary,Wright,"3524 Elm Street, New York, NY 28862",0
+Adam,Martinez,"9107 Oak Ave, Houston, CA 16091",Adam,Martinez,,0
+Diana,Anderson,"6146 Redwood St, Houston, AZ 94898",Diana F.,Anderson,"2465 Sunset Blvd, San Antonio, NC 13368",0
+Karen,Anderson,"6646 Pine Ln, Los Angeles, NY 34548",Karen B.,Anderson,"7106 Elm Street, Dallas, NC 89290",0
+Anna,Wilson,"938 Redwood St, Dallas, NY 69260",Anna,Wilson,"938 Redwood St, Dallas, NY 69260 Apt 31",1
+Chris,Davis,"6027 Maple Rd, New York, CA 66823",Chris,Davis,"5040 Elm Street, Philadelphia, PA 56398",0
+Marcus,Lee,"7926 Birch Dr, Chicago, AZ 84913",Marcus,Lee,,0
+Jane,Williams,"3971 Cedar Ct, Philadelphia, TX 72508",Jane,Williams,,0
+Mary,Taylor,"7962 Apple Dr, New York, CA 87165",Mary,Taylor,"7962 Apple Dr, New York, CA 87165",1
+Marcus,Kim,"910 Redwood St, Houston, PA 55135",Marcus G.,Kim,"3006 Sunset Blvd, Dallas, TX 98619",0
+Sarah,Williams,"2814 Cedar Ct, Los Angeles, CA 10362",Sarah,Williams,,0
+Dave,Wright,,Dave,Wright,,0
+Marcus,Taylor,"3051 Redwood St, Philadelphia, PA 36134",Marcus J.,Taylor,"7740 Redwood St, Philadelphia, NC 16273",0
+Rob,Williams,"2377 Birch Dr, San Diego, TX 32342",Rob,Williams,"2377 Birch Dr, San Antonio, TX 32342",0
+Adam,Kim,"5057 Cedar Ct, Dallas, FL 88931",Adam,Kim,"6261 Valley Rd, Los Angeles, MI 10423",0
+Jane,Anderson,"1420 Birch Dr, Houston, AZ 78730",Jane C.,Anderson,"5042 Apple Dr, Dallas, IL 89488",0
+Michael,Miller,"5179 Birch Dr, San Diego, GA 91589",Michael,Miller,,0
+Diana,Taylor,"7543 Cedar Ct, San Antonio, TX 42097",Diana,Taylor,"7543 Cedar Ct, San Antonio, TX 42097",1
+Maria,Wilson,"6333 Pine Ln, San Jose, NC 30152",Maria,Wilson,"1567 Cedar Ct, New York, NC 16791",0
+Diana,Miller,"4504 Valley Rd, Houston, AZ 31807",Diana,Miller,"4504 Valley Rd, Houston, AZ 31807",1
+John,Clark,"930 Maple Rd, Chicago, AZ 48494",John,Clark,"9104 Valley Rd, San Antonio, AZ 86972",0
+Maria,Clark,"2392 Birch Dr, Dallas, CA 32182",Maria,Clark,,0
+Marcus,Smith,"9452 Maple Rd, San Jose, MI 99988",Marcus J.,Smith,"2440 Maple Rd, San Jose, MI 65369",0
+Lisa,Allen,,Lisa H.,Allen,"6373 Elm Street, Los Angeles, IL 65892",0
+Mary,Williams,"267 Maple Rd, New York, TX 50582",Mary,Williams,"5426 Pine Ln, San Diego, AZ 41648",0
+Lisa,Clark,"3985 Oak Ave, San Jose, NY 37378",Lisa A.,Clark,"9327 Apple Dr, Dallas, PA 70167",0
+John,Anderson,,John,Anderson,,1
+Lisa,Smith,"7281 Elm Street, Phoenix, NY 98907",Lisa,Smith,"3754 Sunset Blvd, Los Angeles, NC 31869",0
+Jane,Allen,"9084 Valley Rd, Chicago, NY 82767",Jane,Allen,"9084 Valley Rd, Chicago, NY 82767",1
+Dave,Martinez,"1558 Maple Rd, Chicago, PA 62707",Dave,Martinez,,0
+Marcus,Williams,"3301 Valley Rd, Houston, PA 61469",Marcus,Williams,,0
+Lisa,Clark,"2096 Valley Rd, San Diego, FL 70592",Lisa,Clark,,0
+John,Taylor,"2445 Redwood St, Philadelphia, PA 84149",John,Taylor,"2445 Redwood St, San Jose, PA 84149",0
+Mary,Miller,"3246 Elm Street, Los Angeles, GA 59880",Mary,Miller,,0
+Jane,Wilson,"2270 Cedar Ct, Dallas, GA 88824",Jane,Wilson,"2270 Cedar Ct, Dallas, GA 88824 Apt 28",1
+Diana,Lee,"4120 Pine Ln, San Diego, FL 62910",Diana,Lee,"7915 Oak Ave, Dallas, IL 76982",0
+Chris,Miller,"2978 Elm Street, San Jose, NY 25821",Chris,Miller,"2978 Elm Street, San Jose, NY 25821",1
+Lisa,Lee,"5463 Redwood St, Philadelphia, FL 97084",Lisa,Lee,"3811 Redwood St, Dallas, GA 22137",0
+Mary,Martinez,"5705 Valley Rd, Los Angeles, AZ 31570",Mary,Martinez,"5705 Valley Rd, Los Angeles, AZ 31570 Apt 40",1
+Adam,Wilson,"9113 Cedar Ct, Phoenix, GA 71801",Adam,Wilson,"9113 Cedar Ct, Phoenix, GA 71801",1
+Dave,Taylor,"4365 Elm Street, Chicago, GA 70857",Dave D.,Taylor,"3258 Valley Rd, Philadelphia, AZ 20162",0
+Michael,Williams,"4232 Redwood St, San Jose, MI 53610",Michael G.,Williams,"5560 Redwood St, Dallas, IL 50220",0
+Sarah,Davis,,Sarah,Davis,,1
+Marcus,Lee,"9276 Oak Ave, San Jose, MI 18495",Marcus D.,Lee,"1801 Sunset Blvd, Los Angeles, PA 20028",0
+Adam,Miller,"8963 Birch Dr, Philadelphia, NC 56272",Adam,Miller,"8963 Birch Dr, Philadelphia, NC 56272 Apt 42",1
+Michael,Wright,,Michael,Wright,,0
+Jane,Davis,"2020 Apple Dr, Houston, PA 24279",Jane,Davis,"2020 Apple Dr, Houston, PA 24279",1
+Chris,Allen,"7056 Elm Street, San Diego, GA 63238",Chris,Allen,"2927 Sunset Blvd, San Antonio, MI 26554",0
+Chris,Brown,,Chris,Brown,,1
+Chris,Wright,"6612 Cedar Ct, San Jose, IL 97250",Chris,Wright,"6612 Cedar Ct, San Antonio, IL 97250",0
+Anna,Clark,"7440 Oak Ave, Dallas, NC 18197",Anna,Clark,"7440 Oak Ave, Dallas, NC 18197",1
+Michael,Anderson,"4360 Birch Dr, San Antonio, MI 11430",Michael,Anderson,"4360 Birch Dr, San Antonio, MI 11430",1
+Maria,Davis,"1667 Apple Dr, New York, PA 79902",Maria,Davis,,0
+Maria,Taylor,"8911 Elm Street, New York, PA 59495",Maria D.,Taylor,"7514 Cedar Ct, Phoenix, TX 77769",0
+Rob,Davis,"9678 Redwood St, San Diego, TX 26919",Rob,Davis,"2049 Maple Rd, Los Angeles, GA 73910",0
+Karen,Johnson,"4549 Pine Ln, San Diego, FL 32338",Karen,Johnson,"4549 Pine Ln, San Diego, FL 32338",1
+Anna,Wilson,"6255 Pine Ln, Houston, FL 35261",Anna,Wilson,"6255 Pine Ln, Houston, FL 35261 Apt 35",1
+Marcus,Allen,"8437 Redwood St, Dallas, NY 36852",Marcus,Allen,"2028 Sunset Blvd, Phoenix, AZ 46156",0
+John,Brown,"8016 Valley Rd, Houston, FL 69398",John,Brown,"3204 Valley Rd, Los Angeles, TX 72620",0
+Diana,Smith,"2090 Birch Dr, Houston, GA 96930",Diana K.,Smith,,0
+Karen,Johnson,"7248 Valley Rd, Chicago, IL 95070",Karen,Johnson,"7248 Valley Rd, New York, IL 95070",0
+Mary,Miller,"498 Redwood St, Chicago, IL 59662",Mary,Miller,"498 Redwood St, Chicago, IL 59662",1
+Chris,Williams,"3912 Apple Dr, Phoenix, MI 97540",Chris,Williams,,0
+Sarah,Smith,"4517 Sunset Blvd, Phoenix, MI 58394",Sarah,Smith,,0
+Michael,Kim,"4140 Cedar Ct, Phoenix, NY 71864",Michael,Kim,"4140 Cedar Ct, Phoenix, NY 71864",1
+Rob,Miller,"1366 Maple Rd, New York, CA 40975",Rob,Miller,"1366 Maple Rd, New York, CA 40975 Apt 34",1
+Sarah,Lee,"3717 Redwood St, San Antonio, NY 10188",Sarah,Lee,"3717 Redwood St, San Antonio, NY 10188 Apt 12",1
+Maria,Allen,"9825 Valley Rd, Houston, PA 89006",Maria D.,Allen,"2340 Pine Ln, Chicago, AZ 83108",0
+Dave,Wilson,"1241 Birch Dr, Los Angeles, AZ 47174",Dave,Wilson,"1241 Birch Dr, Los Angeles, AZ 47174",1
+Maria,Johnson,"6330 Birch Dr, Dallas, NC 67328",Maria B.,Johnson,"3593 Oak Ave, Chicago, NY 42314",0
+Adam,Davis,"7527 Elm Street, Dallas, NC 63477",Adam,Davis,"7527 Elm Street, Dallas, NC 63477",1
+Rob,Kim,"7122 Pine Ln, San Diego, FL 69103",Rob,Kim,"7122 Pine Ln, San Diego, FL 69103",1
+Diana,Kim,"3950 Elm Street, New York, GA 46515",Diana,Kim,"3950 Elm Street, New York, GA 46515 Apt 7",1
+Chris,Smith,"4888 Pine Ln, Chicago, AZ 21246",Chris,Smith,"4888 Pine Ln, Chicago, AZ 21246 Apt 24",1
+Lisa,Lee,"5177 Redwood St, New York, CA 49506",Lisa,Lee,"5177 Redwood St, New York, CA 49506",1
+Jane,Martinez,"9272 Apple Dr, Phoenix, TX 74012",Jane,Martinez,,0
+Chris,Clark,"6807 Elm Street, Phoenix, CA 72289",Chris F.,Clark,"5604 Apple Dr, Phoenix, CA 78439",0
+Anna,Anderson,"1581 Birch Dr, Chicago, CA 64637",Anna,Anderson,,0
+Mary,Wright,"2405 Birch Dr, Los Angeles, FL 78226",Mary,Wright,,0
+Chris,Davis,,Chris,Davis,,0
+Anna,Miller,"1190 Pine Ln, Houston, FL 34402",Anna,Miller,"1190 Pine Ln, Houston, FL 34402",1
+Anna,Wilson,"2196 Cedar Ct, San Jose, NY 66672",Anna,Wilson,"2196 Cedar Ct, Los Angeles, NY 66672",0
+Jane,Miller,"6959 Pine Ln, San Antonio, NY 56630",Jane,Miller,,0
+Lisa,Johnson,"1355 Sunset Blvd, San Jose, NY 96219",Lisa,Johnson,"1355 Sunset Blvd, San Jose, NY 96219",1
+Karen,Allen,"3370 Oak Ave, Philadelphia, FL 71828",Karen,Allen,,0
+Michael,Wright,"9930 Redwood St, Dallas, AZ 28739",Michael,Wright,,0
+Jane,Lee,"3383 Pine Ln, Houston, PA 25818",Jane,Lee,"1030 Sunset Blvd, Chicago, FL 60003",0
+Rob,Kim,"4532 Redwood St, Los Angeles, CA 16671",Rob,Kim,"4532 Redwood St, Los Angeles, CA 16671",1
+Chris,Williams,"8635 Redwood St, San Antonio, PA 87332",Chris,Williams,"8635 Redwood St, Phoenix, PA 87332",0
+Diana,Miller,"7606 Pine Ln, San Antonio, NC 27972",Diana K.,Miller,"8796 Sunset Blvd, Dallas, GA 55517",0
+Rob,Miller,"9021 Birch Dr, Phoenix, PA 64988",Rob,Miller,"9021 Birch Dr, Phoenix, PA 64988",1
+Anna,Martinez,"5537 Elm Street, New York, TX 71382",Anna,Martinez,"5537 Elm Street, Houston, TX 71382",0
+Anna,Wright,"3154 Oak Ave, San Antonio, FL 95717",Anna,Wright,"3154 Oak Ave, San Antonio, FL 95717 Apt 6",1
+Lisa,Martinez,"4578 Redwood St, New York, GA 13008",Lisa K.,Martinez,,0
+Michael,Johnson,"1005 Cedar Ct, New York, AZ 78906",Michael,Johnson,"5409 Redwood St, Chicago, NY 17867",0
+Jane,Kim,"8519 Oak Ave, San Diego, MI 98487",Jane D.,Kim,"3132 Redwood St, Dallas, PA 77562",0
+Dave,Smith,"364 Redwood St, Los Angeles, GA 36753",Dave,Smith,"364 Redwood St, Philadelphia, GA 36753",0
+Diana,Smith,"5957 Sunset Blvd, San Diego, TX 22989",Diana,Smith,"5957 Sunset Blvd, San Diego, TX 22989",1
+Rob,Wilson,"2712 Elm Street, Chicago, FL 53393",Rob,Wilson,"2712 Elm Street, Chicago, FL 53393 Apt 47",1
+Dave,Smith,,Dave,Smith,,0
+Lisa,Taylor,,Lisa,Taylor,,1
+Karen,Kim,"2903 Elm Street, San Antonio, FL 98488",Karen D.,Kim,"6136 Pine Ln, New York, NY 77482",0
+Chris,Brown,"5379 Birch Dr, San Antonio, PA 70234",Chris A.,Brown,"7964 Elm Street, San Diego, FL 92775",0
+John,Anderson,"40 Cedar Ct, Los Angeles, IL 74404",John B.,Anderson,"3229 Birch Dr, Los Angeles, FL 66476",0
+Jane,Miller,"5723 Elm Street, Philadelphia, NC 71406",Jane,Miller,,0
+Dave,Clark,"1055 Pine Ln, Philadelphia, NY 20656",Dave,Clark,"1055 Pine Ln, San Antonio, NY 20656",0
+Adam,Smith,"9748 Maple Rd, Dallas, IL 70487",Adam,Smith,"9748 Maple Rd, Dallas, IL 70487",1
+Adam,Williams,"4293 Sunset Blvd, San Jose, IL 70078",Adam,Williams,"4293 Sunset Blvd, San Jose, IL 70078 Apt 13",1
+Jane,Kim,"4753 Oak Ave, San Antonio, GA 41847",Jane,Kim,"4753 Oak Ave, Los Angeles, GA 41847",0
+Karen,Allen,"1392 Cedar Ct, New York, FL 21602",Karen,Allen,"1392 Cedar Ct, New York, FL 21602",1
+Michael,Wilson,"9786 Elm Street, Los Angeles, PA 27451",Michael,Wilson,"9786 Elm Street, Los Angeles, PA 27451 Apt 8",1
+Jane,Williams,"3496 Apple Dr, San Antonio, NC 23533",Jane K.,Williams,"2318 Pine Ln, Philadelphia, GA 60104",0
+Sarah,Taylor,"6170 Oak Ave, Houston, PA 18112",Sarah K.,Taylor,"6619 Elm Street, Houston, MI 87466",0
+Chris,Davis,"9714 Maple Rd, San Jose, PA 17638",Chris,Davis,"9714 Maple Rd, San Jose, PA 17638 Apt 30",1
+Karen,Taylor,,Karen,Taylor,,0
+Jane,Anderson,,Jane,Anderson,,0
+Marcus,Taylor,"257 Apple Dr, Phoenix, GA 86929",Marcus,Taylor,,0
+Dave,Wilson,"2915 Sunset Blvd, Phoenix, IL 67406",Dave E.,Wilson,"8625 Cedar Ct, San Jose, GA 41639",0
+John,Wilson,"938 Maple Rd, San Jose, TX 53588",John,Wilson,"2981 Redwood St, San Jose, FL 60061",0
+Rob,Taylor,,Rob,Taylor,"1917 Apple Dr, New York, CA 58143",0
+Karen,Wilson,"1325 Pine Ln, Dallas, AZ 96717",Karen,Wilson,,0
+Michael,Taylor,"5837 Pine Ln, Chicago, NC 15867",Michael,Taylor,,0
+Dave,Martinez,"8919 Cedar Ct, San Antonio, FL 72666",Dave,Martinez,"8919 Cedar Ct, San Antonio, FL 72666",1
+Rob,Clark,"1749 Sunset Blvd, Philadelphia, NY 49768",Rob,Clark,,0
+Mary,Wright,"786 Redwood St, Phoenix, IL 76238",Mary,Wright,"786 Redwood St, Phoenix, IL 76238 Apt 32",1
+Dave,Clark,"4570 Pine Ln, Los Angeles, MI 43015",Dave,Clark,"4461 Sunset Blvd, Dallas, CA 15592",0
+Maria,Wilson,"9452 Sunset Blvd, San Antonio, TX 51057",Maria,Wilson,"9452 Sunset Blvd, San Antonio, TX 51057",1
+Mary,Miller,"2022 Maple Rd, Phoenix, PA 27170",Mary,Miller,"2022 Maple Rd, Phoenix, PA 27170",1
+Sarah,Davis,"249 Valley Rd, Houston, NY 74307",Sarah,Davis,,0
+Marcus,Kim,"3949 Sunset Blvd, Houston, NC 18813",Marcus D.,Kim,"9022 Apple Dr, Dallas, FL 84002",0
+Mary,Lee,"6470 Apple Dr, Chicago, FL 37871",Mary,Lee,,0
+Michael,Wilson,"1632 Valley Rd, Chicago, AZ 73873",Michael,Wilson,,0
+Diana,Lee,"3994 Birch Dr, San Jose, GA 74941",Diana G.,Lee,"897 Valley Rd, Los Angeles, AZ 25024",0
+Anna,Johnson,"7322 Cedar Ct, New York, CA 40613",Anna,Johnson,"7322 Cedar Ct, New York, CA 40613 Apt 6",1
+Rob,Wright,,Rob F.,Wright,"5417 Pine Ln, Phoenix, TX 17279",0
+Adam,Lee,"6312 Sunset Blvd, Los Angeles, NC 30771",Adam,Lee,"6312 Sunset Blvd, Los Angeles, NC 30771",1
+Adam,Brown,"6081 Oak Ave, San Antonio, AZ 93200",Adam,Brown,,0
+John,Martinez,"3120 Cedar Ct, Houston, TX 68172",John,Martinez,"629 Sunset Blvd, San Antonio, GA 44598",0
+Diana,Allen,"9311 Birch Dr, Phoenix, NC 89620",Diana C.,Allen,"8304 Birch Dr, Los Angeles, AZ 29042",0
+Mary,Kim,"1942 Birch Dr, San Antonio, CA 65297",Mary,Kim,"1942 Birch Dr, San Antonio, CA 65297 Apt 5",1
+Dave,Smith,"326 Valley Rd, Dallas, TX 24225",Dave,Smith,"326 Valley Rd, Dallas, TX 24225 Apt 40",1
+Maria,Anderson,"9252 Pine Ln, New York, TX 71293",Maria,Anderson,,0
+Marcus,Clark,,Marcus,Clark,,0
+Dave,Wright,"1667 Sunset Blvd, San Diego, GA 49202",Dave,Wright,"1667 Sunset Blvd, San Diego, GA 49202",1
+Lisa,Williams,"6184 Sunset Blvd, Chicago, GA 10001",Lisa G.,Williams,"5709 Cedar Ct, San Jose, FL 10120",0
+Chris,Wilson,,Chris D.,Wilson,"3394 Cedar Ct, San Jose, TX 50638",0
+Sarah,Kim,"6063 Pine Ln, Houston, GA 71481",Sarah,Kim,"6063 Pine Ln, Houston, GA 71481",1
+Chris,Allen,"2943 Oak Ave, San Antonio, IL 71277",Chris,Allen,"9676 Valley Rd, Philadelphia, MI 53539",0
+Sarah,Brown,"1427 Sunset Blvd, San Jose, FL 79574",Sarah,Brown,"1427 Sunset Blvd, San Jose, FL 79574",1
+Adam,Brown,"6804 Redwood St, Phoenix, MI 43262",Adam,Brown,"378 Maple Rd, Houston, AZ 92072",0
+Lisa,Kim,,Lisa,Kim,"4736 Elm Street, San Diego, PA 11920",0
+Diana,Martinez,"5913 Valley Rd, Dallas, MI 58040",Diana D.,Martinez,"1469 Valley Rd, Phoenix, GA 30635",0
+Jane,Davis,"2805 Maple Rd, San Diego, FL 12149",Jane,Davis,,0
+Sarah,Kim,"8149 Redwood St, Phoenix, NY 48691",Sarah,Kim,"8149 Redwood St, Phoenix, NY 48691",1
+John,Allen,,John,Allen,,1
+Karen,Clark,,Karen,Clark,,0
+Sarah,Wilson,"5316 Valley Rd, New York, FL 78897",Sarah G.,Wilson,,0
+Marcus,Clark,"827 Oak Ave, San Antonio, MI 93661",Marcus A.,Clark,"1275 Oak Ave, Philadelphia, TX 84802",0
+Dave,Smith,"8234 Redwood St, New York, NY 51917",Dave K.,Smith,,0
+Marcus,Kim,"416 Oak Ave, Dallas, NY 34148",Marcus,Kim,"416 Oak Ave, Dallas, NY 34148",1
+John,Smith,,John,Smith,,0
+Maria,Brown,"6937 Cedar Ct, Los Angeles, IL 16578",Maria E.,Brown,"9079 Redwood St, Houston, MI 15234",0
+John,Lee,"791 Redwood St, San Antonio, AZ 80061",John,Lee,"791 Redwood St, San Antonio, AZ 80061",1
+John,Wilson,"5202 Valley Rd, Philadelphia, NY 29959",John,Wilson,,0
+Adam,Davis,"1387 Cedar Ct, San Antonio, TX 95670",Adam,Davis,,0
+Mary,Johnson,"5476 Elm Street, San Jose, NY 53325",Mary,Johnson,,0
+Maria,Brown,"2671 Apple Dr, Dallas, IL 17872",Maria,Brown,"2671 Apple Dr, Dallas, IL 17872",1
+Mary,Clark,"4042 Oak Ave, Phoenix, CA 14063",Mary,Clark,"4042 Oak Ave, Phoenix, CA 14063",1
+Anna,Wright,"1810 Birch Dr, San Diego, FL 31579",Anna B.,Wright,"3170 Pine Ln, San Jose, NY 74149",0
+Diana,Brown,"4929 Oak Ave, New York, IL 43296",Diana,Brown,,0
+Dave,Williams,"6276 Birch Dr, San Jose, GA 49299",Dave,Williams,"6276 Birch Dr, San Jose, GA 49299 Apt 49",1
+Marcus,Anderson,"8836 Pine Ln, Philadelphia, TX 45988",Marcus F.,Anderson,"7572 Cedar Ct, San Jose, CA 59362",0
+Lisa,Clark,"3289 Sunset Blvd, San Jose, PA 93559",Lisa,Clark,"3289 Sunset Blvd, San Jose, PA 93559 Apt 17",1
+Dave,Anderson,"5960 Maple Rd, Los Angeles, IL 20232",Dave,Anderson,,0
+Marcus,Smith,,Marcus,Smith,"5140 Cedar Ct, Los Angeles, IL 96833",0
+Lisa,Miller,"1706 Redwood St, Chicago, MI 52052",Lisa A.,Miller,"322 Birch Dr, Dallas, CA 21690",0
+Michael,Martinez,"7423 Sunset Blvd, Dallas, NY 43216",Michael G.,Martinez,"1874 Birch Dr, Philadelphia, PA 36282",0
+Adam,Johnson,"9797 Elm Street, Chicago, MI 86529",Adam,Johnson,,0
+Chris,Lee,"5274 Sunset Blvd, Chicago, NY 87337",Chris,Lee,"6173 Maple Rd, Philadelphia, GA 28941",0
+Karen,Davis,"551 Elm Street, Dallas, NC 12164",Karen,Davis,"551 Elm Street, Dallas, NC 12164 Apt 39",1
+Chris,Miller,"1943 Apple Dr, San Diego, MI 22936",Chris,Miller,"8871 Valley Rd, Dallas, FL 40170",0
+Anna,Anderson,"2803 Pine Ln, San Antonio, NY 87667",Anna,Anderson,"1757 Oak Ave, San Diego, AZ 79136",0
+Chris,Lee,"1698 Pine Ln, Los Angeles, NC 67395",Chris,Lee,"1698 Pine Ln, Los Angeles, NC 67395",1
+John,Kim,"1636 Maple Rd, New York, FL 47920",John,Kim,"1636 Maple Rd, San Diego, FL 47920",0
+Diana,Davis,"5934 Birch Dr, Houston, GA 34730",Diana K.,Davis,"8102 Redwood St, Dallas, AZ 77315",0
+Anna,Williams,"8646 Oak Ave, Dallas, IL 72443",Anna,Williams,,0
+Diana,Kim,"4535 Birch Dr, Philadelphia, NC 14529",Diana,Kim,,0
+Karen,Miller,"2181 Pine Ln, Phoenix, NC 45772",Karen,Miller,"2181 Pine Ln, Phoenix, NC 45772",1
+Dave,Johnson,"6045 Valley Rd, Phoenix, NY 42630",Dave,Johnson,"6045 Valley Rd, Phoenix, NY 42630",1
+John,Taylor,"6777 Elm Street, Los Angeles, CA 43163",John,Taylor,"8555 Birch Dr, Chicago, CA 26811",0
+John,Taylor,"4414 Redwood St, Philadelphia, CA 48002",John,Taylor,,0
+Michael,Miller,"7605 Oak Ave, Phoenix, NY 84557",Michael,Miller,"7605 Oak Ave, Phoenix, NY 84557",1
+Mary,Taylor,"6736 Maple Rd, Chicago, MI 71734",Mary,Taylor,"6736 Maple Rd, Chicago, MI 71734",0
+Anna,Lee,,Anna,Lee,,0
+Maria,Lee,"8748 Valley Rd, Chicago, GA 64461",Maria,Lee,"5674 Cedar Ct, Phoenix, FL 39530",0
+Lisa,Wilson,"3301 Pine Ln, San Diego, MI 28488",Lisa,Wilson,"3301 Pine Ln, Chicago, MI 28488",0
+John,Smith,"7093 Elm Street, Houston, MI 95532",John,Smith,"7093 Elm Street, Houston, MI 95532",1
+Rob,Allen,"3336 Birch Dr, Los Angeles, PA 11474",Rob,Allen,"9770 Sunset Blvd, Los Angeles, PA 31117",0
+Diana,Williams,"4771 Pine Ln, Dallas, NC 64877",Diana,Williams,"4771 Pine Ln, Dallas, NC 64877",1
+Lisa,Allen,"4143 Apple Dr, Phoenix, FL 74004",Lisa,Allen,,0
+Anna,Miller,"7445 Pine Ln, New York, PA 51726",Anna,Miller,,0
+Michael,Allen,"8200 Maple Rd, Phoenix, GA 89773",Michael,Allen,,0
+Lisa,Clark,"8016 Valley Rd, Chicago, MI 17529",Lisa,Clark,"8016 Valley Rd, Chicago, MI 17529 Apt 27",1
+Dave,Kim,"2098 Birch Dr, Los Angeles, TX 71021",Dave,Kim,"6486 Birch Dr, Phoenix, AZ 68727",0
+Mary,Brown,"8098 Maple Rd, Phoenix, TX 45155",Mary F.,Brown,"346 Elm Street, Los Angeles, IL 74781",0
+Mary,Anderson,"296 Cedar Ct, Philadelphia, FL 70780",Mary,Anderson,,0
+John,Williams,"4951 Elm Street, Dallas, GA 95698",John,Williams,"4951 Elm Street, Dallas, GA 95698",1
+Rob,Martinez,"8105 Sunset Blvd, Chicago, NC 30897",Rob,Martinez,"8105 Sunset Blvd, Chicago, NC 30897",1
+Mary,Anderson,,Mary,Anderson,"8911 Cedar Ct, Houston, CA 72852",0
+Mary,Johnson,"3273 Sunset Blvd, Chicago, CA 60443",Mary,Johnson,,0
+Marcus,Davis,"5738 Redwood St, Philadelphia, CA 60041",Marcus,Davis,"5738 Redwood St, San Diego, CA 60041",0
+Chris,Lee,"369 Cedar Ct, Chicago, AZ 46729",Chris,Lee,"369 Cedar Ct, Chicago, AZ 46729 Apt 5",1
+Jane,Kim,,Jane,Kim,,0
+Adam,Clark,"9211 Redwood St, New York, CA 76042",Adam,Clark,"9211 Redwood St, New York, CA 76042",1
+Karen,Smith,"6083 Cedar Ct, Phoenix, TX 13453",Karen C.,Smith,"9099 Redwood St, Dallas, CA 30716",0
+Rob,Williams,,Rob,Williams,,0
+Anna,Davis,"7442 Elm Street, San Diego, GA 88664",Anna B.,Davis,"1129 Maple Rd, New York, NY 65975",0
+Chris,Kim,"9653 Elm Street, Philadelphia, NC 57092",Chris,Kim,"2441 Valley Rd, Dallas, TX 99362",0
+Sarah,Wright,"4485 Cedar Ct, Phoenix, GA 49665",Sarah,Wright,"4485 Cedar Ct, Philadelphia, GA 49665",0
+Jane,Johnson,,Jane,Johnson,,0
+Diana,Brown,"1907 Sunset Blvd, Houston, TX 72603",Diana,Brown,,0
+Adam,Kim,"9202 Valley Rd, San Jose, FL 12808",Adam,Kim,,0
+Anna,Taylor,"5073 Redwood St, San Antonio, GA 51152",Anna,Taylor,"5073 Redwood St, Los Angeles, GA 51152",0
+Dave,Brown,"1568 Pine Ln, Phoenix, NC 79876",Dave,Brown,"1568 Pine Ln, Dallas, NC 79876",0
+Anna,Wilson,"9819 Pine Ln, San Jose, IL 47891",Anna C.,Wilson,"4043 Birch Dr, New York, GA 70990",0
+Karen,Kim,"5826 Apple Dr, Philadelphia, GA 40036",Karen,Kim,"7636 Elm Street, New York, CA 76194",0
+Anna,Kim,,Anna,Kim,"1645 Elm Street, Dallas, CA 83577",0
+Adam,Kim,"2508 Redwood St, Philadelphia, FL 40913",Adam,Kim,"2508 Redwood St, Philadelphia, FL 40913",1
+Anna,Wilson,"4186 Elm Street, Phoenix, FL 55658",Anna B.,Wilson,"1364 Birch Dr, Dallas, IL 46769",0
+Jane,Brown,"3114 Sunset Blvd, Philadelphia, AZ 41526",Jane,Brown,"440 Sunset Blvd, Dallas, AZ 81553",0
+Adam,Anderson,"6886 Valley Rd, San Jose, MI 20409",Adam,Anderson,"6886 Valley Rd, San Jose, MI 20409 Apt 42",1
+Jane,Clark,"5537 Elm Street, Los Angeles, GA 74176",Jane,Clark,"5537 Elm Street, San Jose, GA 74176",0
+Michael,Clark,"2376 Valley Rd, San Diego, IL 30118",Michael,Clark,"2376 Valley Rd, San Diego, IL 30118",1
+Karen,Martinez,"8173 Cedar Ct, New York, MI 67595",Karen,Martinez,"6720 Birch Dr, Philadelphia, GA 25814",0
+Mary,Davis,"3839 Sunset Blvd, Dallas, GA 17817",Mary,Davis,"9137 Redwood St, Houston, FL 35703",0
+Lisa,Wright,"3742 Maple Rd, Philadelphia, PA 28175",Lisa,Wright,"7523 Valley Rd, Chicago, NY 83906",0
+John,Smith,"1759 Valley Rd, Houston, TX 70151",John C.,Smith,"1231 Sunset Blvd, San Jose, FL 17732",0
+Michael,Smith,"3336 Redwood St, San Antonio, IL 24421",Michael E.,Smith,"2993 Redwood St, Phoenix, CA 80375",0
+Maria,Wright,"500 Elm Street, Dallas, NC 19557",Maria,Wright,"9035 Pine Ln, Phoenix, GA 28740",0
+Chris,Miller,"7506 Sunset Blvd, New York, CA 55444",Chris,Miller,,0
+Dave,Smith,"1788 Cedar Ct, Los Angeles, FL 61996",Dave,Smith,"1788 Cedar Ct, Los Angeles, FL 61996 Apt 38",1
+Maria,Clark,"527 Elm Street, Chicago, MI 31967",Maria,Clark,"527 Elm Street, Chicago, MI 31967",1
+Adam,Miller,,Adam,Miller,,1
+Mary,Davis,"8972 Pine Ln, Dallas, NC 72130",Mary,Davis,,0
+Diana,Brown,"77 Elm Street, Los Angeles, IL 74527",Diana,Brown,"77 Elm Street, Los Angeles, IL 74527",0
+Jane,Miller,"5082 Birch Dr, San Diego, PA 66980",Jane,Miller,"5082 Birch Dr, San Diego, PA 66980 Apt 27",1
+Marcus,Kim,"9233 Pine Ln, New York, FL 22232",Marcus,Kim,"9233 Pine Ln, Chicago, FL 22232",0
+Dave,Martinez,"7771 Redwood St, San Diego, MI 94383",Dave,Martinez,"7771 Redwood St, Philadelphia, MI 94383",0
+Jane,Wilson,"9780 Oak Ave, New York, MI 83526",Jane,Wilson,"9780 Oak Ave, New York, MI 83526",1
+Mary,Wright,"6441 Redwood St, Dallas, TX 40835",Mary,Wright,"6441 Redwood St, Dallas, TX 40835",1
+Maria,Anderson,,Maria,Anderson,,0
+John,Smith,"8046 Valley Rd, Phoenix, NC 84823",John,Smith,,0
+Maria,Clark,,Maria,Clark,"9644 Cedar Ct, San Diego, TX 17733",0
+Chris,Smith,"3517 Redwood St, Dallas, CA 84863",Chris,Smith,"2358 Birch Dr, San Diego, TX 16316",0
+Marcus,Davis,"9198 Oak Ave, Houston, GA 31615",Marcus,Davis,"9198 Oak Ave, Houston, GA 31615 Apt 47",1
+Karen,Taylor,"125 Redwood St, San Antonio, CA 44799",Karen,Taylor,"9786 Maple Rd, Phoenix, GA 69082",0
+Michael,Williams,"775 Valley Rd, Los Angeles, MI 32088",Michael,Williams,"775 Valley Rd, Los Angeles, MI 32088",1
+Adam,Wright,"1250 Sunset Blvd, Los Angeles, IL 13263",Adam C.,Wright,"930 Maple Rd, San Diego, NC 37008",0
+Dave,Kim,"8027 Birch Dr, Los Angeles, FL 73909",Dave A.,Kim,"9630 Oak Ave, San Diego, TX 78974",0
+John,Martinez,,John,Martinez,,1
+Rob,Taylor,"6502 Pine Ln, Los Angeles, CA 40572",Rob,Taylor,"4587 Valley Rd, Philadelphia, CA 36048",0
+Sarah,Brown,"1351 Redwood St, New York, PA 80043",Sarah,Brown,,0
+Karen,Clark,"7427 Oak Ave, New York, IL 57664",Karen H.,Clark,"5981 Birch Dr, Phoenix, TX 83746",0
+Lisa,Smith,"4613 Redwood St, Dallas, IL 54899",Lisa A.,Smith,,0
+Mary,Martinez,"8158 Sunset Blvd, Los Angeles, NC 98381",Mary,Martinez,"8158 Sunset Blvd, Los Angeles, NC 98381",1
+Lisa,Miller,"4832 Cedar Ct, New York, CA 73253",Lisa,Miller,"5187 Oak Ave, Dallas, FL 14258",0
+Mary,Anderson,"9259 Cedar Ct, Los Angeles, PA 32744",Mary A.,Anderson,"4837 Oak Ave, Houston, NY 67735",0
+Maria,Clark,"8453 Oak Ave, New York, PA 93154",Maria,Clark,"9462 Maple Rd, San Jose, IL 42076",0
+Dave,Clark,,Dave,Clark,,0
+John,Anderson,"7337 Sunset Blvd, Los Angeles, NY 43130",John,Anderson,,0
+Maria,Kim,"8268 Valley Rd, Phoenix, FL 25341",Maria,Kim,"8268 Valley Rd, Phoenix, FL 25341 Apt 50",1
+Karen,Davis,"1849 Birch Dr, New York, IL 25035",Karen,Davis,"1849 Birch Dr, Phoenix, IL 25035",0
+Karen,Martinez,"8207 Valley Rd, San Diego, FL 16625",Karen,Martinez,,0
+Michael,Davis,"8946 Apple Dr, Chicago, TX 81705",Michael,Davis,,0
+Dave,Davis,,Dave,Davis,,0
+Michael,Davis,"8670 Valley Rd, Houston, PA 38956",Michael,Davis,,0
+Anna,Martinez,"4565 Pine Ln, Houston, MI 33379",Anna,Martinez,"4565 Pine Ln, Houston, MI 33379",1
+Jane,Martinez,,Jane E.,Martinez,"9590 Valley Rd, Philadelphia, NY 71464",0
+Adam,Davis,"958 Apple Dr, Philadelphia, PA 61941",Adam,Davis,,0
+Adam,Miller,"7683 Elm Street, Dallas, NY 25902",Adam,Miller,,0
+Michael,Kim,"7603 Elm Street, Los Angeles, CA 37974",Michael,Kim,"4420 Cedar Ct, New York, AZ 29437",0
+Sarah,Allen,"102 Maple Rd, Houston, NC 31891",Sarah,Allen,"102 Maple Rd, Houston, NC 31891 Apt 35",1
+Mary,Clark,"7319 Pine Ln, San Antonio, AZ 57181",Mary,Clark,"7319 Pine Ln, San Antonio, AZ 57181 Apt 31",1
+Rob,Anderson,"2422 Valley Rd, Chicago, NY 34429",Rob,Anderson,"410 Birch Dr, San Diego, GA 20307",0
+Lisa,Martinez,,Lisa H.,Martinez,"2161 Redwood St, San Antonio, MI 91958",0
+Jane,Clark,"3506 Maple Rd, Dallas, NY 70075",Jane H.,Clark,"5111 Pine Ln, San Jose, NC 68205",0
+Dave,Allen,"5068 Sunset Blvd, Los Angeles, CA 14124",Dave,Allen,"8449 Oak Ave, Houston, IL 27362",0
+Maria,Taylor,"4851 Elm Street, Chicago, NC 10595",Maria,Taylor,,0
+Diana,Martinez,,Diana,Martinez,,0
+Dave,Davis,"6437 Pine Ln, Los Angeles, NY 99016",Dave,Davis,,0
+Maria,Clark,"4775 Maple Rd, San Jose, IL 46859",Maria,Clark,"4775 Maple Rd, San Jose, IL 46859",1
+Anna,Davis,"2210 Cedar Ct, New York, NC 67314",Anna,Davis,"2210 Cedar Ct, New York, NC 67314",1
+Anna,Taylor,"3173 Pine Ln, San Antonio, CA 65197",Anna F.,Taylor,"9189 Maple Rd, San Antonio, NY 62378",0
+Michael,Clark,,Michael,Clark,,1
+Rob,Smith,,Rob,Smith,,0
+Karen,Anderson,"6226 Maple Rd, Dallas, IL 26357",Karen,Anderson,"6226 Maple Rd, Dallas, IL 26357",1
+Michael,Taylor,"1125 Maple Rd, Chicago, MI 81509",Michael F.,Taylor,"5362 Valley Rd, Chicago, FL 59763",0
+Lisa,Lee,"9161 Redwood St, San Jose, IL 21957",Lisa,Lee,"9161 Redwood St, San Jose, IL 21957 Apt 6",1
+Marcus,Taylor,"52 Maple Rd, Philadelphia, NC 49599",Marcus,Taylor,"52 Maple Rd, San Diego, NC 49599",0
+Maria,Kim,"9871 Maple Rd, San Diego, TX 83136",Maria,Kim,"9871 Maple Rd, San Diego, TX 83136",1
+Michael,Miller,"7045 Cedar Ct, Phoenix, AZ 62289",Michael,Miller,,0
+Maria,Lee,"296 Maple Rd, Chicago, IL 81427",Maria,Lee,"296 Maple Rd, Dallas, IL 81427",0
+Marcus,Davis,"9531 Oak Ave, Houston, GA 89715",Marcus,Davis,"9531 Oak Ave, New York, GA 89715",0
+Lisa,Wilson,"9499 Sunset Blvd, Houston, AZ 14617",Lisa,Wilson,,0
+Dave,Miller,"8816 Pine Ln, San Diego, NC 18501",Dave,Miller,"2409 Cedar Ct, Philadelphia, TX 32087",0
+Sarah,Wilson,"9772 Birch Dr, Chicago, NY 70422",Sarah C.,Wilson,,0
+Marcus,Anderson,"4721 Pine Ln, San Jose, AZ 50381",Marcus,Anderson,"4721 Pine Ln, San Jose, AZ 50381",1
+Maria,Allen,"5375 Cedar Ct, San Diego, NC 84049",Maria,Allen,"6816 Redwood St, New York, MI 70820",0
+Marcus,Lee,,Marcus F.,Lee,"6427 Maple Rd, Houston, PA 88147",0
+Marcus,Williams,"3194 Birch Dr, Phoenix, MI 59878",Marcus F.,Williams,"9158 Redwood St, Dallas, TX 61336",0
+Dave,Kim,"3216 Cedar Ct, Phoenix, PA 11874",Dave,Kim,,0
+Anna,Williams,"2691 Sunset Blvd, Dallas, NY 53119",Anna,Williams,,0
+Lisa,Brown,"8887 Redwood St, Chicago, NY 15167",Lisa,Brown,"8887 Redwood St, Chicago, NY 15167",1
+Mary,Kim,"1940 Birch Dr, San Jose, CA 39360",Mary,Kim,"1940 Birch Dr, Phoenix, CA 39360",0
+Adam,Wilson,,Adam,Wilson,"7305 Sunset Blvd, Dallas, GA 79498",0
+Mary,Clark,"508 Oak Ave, Los Angeles, AZ 65109",Mary K.,Clark,"3366 Valley Rd, Dallas, TX 49892",0
+Sarah,Lee,"335 Elm Street, San Diego, FL 70326",Sarah E.,Lee,"1427 Pine Ln, Houston, FL 43597",0
+Rob,Davis,"8762 Pine Ln, New York, IL 36867",Rob,Davis,"8762 Pine Ln, New York, IL 36867",1
+Dave,Wright,,Dave,Wright,"7341 Pine Ln, San Antonio, GA 26451",0
+Maria,Brown,"87 Maple Rd, Philadelphia, NY 87316",Maria,Brown,"87 Maple Rd, Philadelphia, NY 87316",1
+Dave,Martinez,"738 Apple Dr, Chicago, AZ 64761",Dave,Martinez,"738 Apple Dr, Chicago, AZ 64761",1
+Marcus,Allen,"1555 Pine Ln, Phoenix, NY 49525",Marcus,Allen,,0
+Chris,Wright,"2439 Cedar Ct, Phoenix, NC 19398",Chris,Wright,"2439 Cedar Ct, Phoenix, NC 19398",1
+Anna,Johnson,"7253 Cedar Ct, Philadelphia, TX 19771",Anna,Johnson,"7253 Cedar Ct, San Jose, TX 19771",0
+Chris,Wilson,"9294 Redwood St, Chicago, CA 87331",Chris J.,Wilson,"1778 Apple Dr, Houston, AZ 45764",0
+Lisa,Brown,"393 Birch Dr, New York, MI 69817",Lisa H.,Brown,"3069 Cedar Ct, Chicago, NY 68683",0
+Adam,Lee,"132 Pine Ln, Los Angeles, NC 12894",Adam,Lee,"7552 Birch Dr, Dallas, FL 23040",0
+Lisa,Miller,"7837 Valley Rd, Phoenix, IL 82978",Lisa,Miller,"7837 Valley Rd, Phoenix, IL 82978",1
+Jane,Kim,"9003 Cedar Ct, Houston, NY 41036",Jane,Kim,,0
+Karen,Clark,"4385 Valley Rd, San Antonio, MI 67093",Karen,Clark,"4385 Valley Rd, San Antonio, MI 67093 Apt 18",1
+Jane,Wilson,"7184 Cedar Ct, San Jose, NC 73454",Jane J.,Wilson,"2904 Pine Ln, Houston, MI 55048",0
+Adam,Williams,"8043 Elm Street, Phoenix, AZ 19484",Adam,Williams,"8605 Redwood St, Houston, IL 13322",0
+Michael,Johnson,"7236 Maple Rd, San Diego, MI 84925",Michael,Johnson,,0
+Jane,Brown,,Jane,Brown,,1
+Diana,Williams,"4085 Birch Dr, Philadelphia, FL 51162",Diana B.,Williams,"1197 Maple Rd, Chicago, TX 56458",0
+Rob,Anderson,,Rob,Anderson,,0
+Anna,Allen,"3931 Oak Ave, Chicago, IL 61937",Anna,Allen,"4936 Redwood St, Phoenix, IL 63088",0
+Marcus,Lee,"6049 Sunset Blvd, New York, PA 90420",Marcus,Lee,"8277 Maple Rd, San Diego, AZ 27436",0
+Karen,Martinez,"1234 Sunset Blvd, Dallas, FL 16859",Karen,Martinez,"1234 Sunset Blvd, Dallas, FL 16859 Apt 4",1
+Sarah,Anderson,"6194 Apple Dr, Philadelphia, AZ 11384",Sarah,Anderson,"6194 Apple Dr, Philadelphia, AZ 11384",1
+Maria,Smith,"4060 Valley Rd, Dallas, CA 32638",Maria,Smith,,0
+Dave,Wilson,,Dave H.,Wilson,"2870 Apple Dr, San Antonio, FL 36062",0
+Dave,Brown,"334 Pine Ln, Philadelphia, PA 88555",Dave,Brown,,0
+Karen,Wilson,"3596 Birch Dr, New York, AZ 88574",Karen,Wilson,"1117 Elm Street, San Jose, GA 51469",0
+Dave,Clark,,Dave,Clark,,0
+John,Williams,"7153 Elm Street, Chicago, FL 13829",John,Williams,"7153 Elm Street, Chicago, FL 13829 Apt 12",1
+Sarah,Miller,"6424 Oak Ave, Philadelphia, AZ 73634",Sarah,Miller,"6424 Oak Ave, Philadelphia, AZ 73634 Apt 49",1
+Michael,Davis,"3611 Valley Rd, Philadelphia, TX 93804",Michael,Davis,"3611 Valley Rd, Philadelphia, TX 93804 Apt 17",1
+Anna,Brown,"2418 Maple Rd, Dallas, NY 26221",Anna,Brown,"2418 Maple Rd, Dallas, NY 26221",1
+Jane,Davis,,Jane,Davis,,0
+Anna,Clark,"1510 Maple Rd, Chicago, FL 14041",Anna G.,Clark,"241 Apple Dr, Philadelphia, PA 90786",0
+Diana,Taylor,"7443 Apple Dr, Phoenix, NY 85824",Diana,Taylor,"7443 Apple Dr, Philadelphia, NY 85824",0
+Sarah,Brown,,Sarah,Brown,,0
+Chris,Johnson,"1058 Elm Street, San Diego, MI 57769",Chris,Johnson,,0
+Karen,Johnson,"595 Cedar Ct, Dallas, MI 77153",Karen,Johnson,"7874 Cedar Ct, San Jose, GA 72647",0
+Chris,Wright,"2625 Redwood St, Chicago, MI 50762",Chris,Wright,,0
+Lisa,Davis,"9398 Pine Ln, San Antonio, NY 19518",Lisa,Davis,"9398 Pine Ln, San Antonio, NY 19518",1
+Adam,Anderson,"3065 Apple Dr, New York, MI 36618",Adam,Anderson,,0
+Michael,Miller,"925 Redwood St, San Diego, GA 17162",Michael,Miller,"925 Redwood St, San Diego, GA 17162 Apt 34",1
+Lisa,Clark,,Lisa C.,Clark,"5441 Apple Dr, Philadelphia, PA 19841",0
+John,Wright,"2774 Pine Ln, Philadelphia, IL 41402",John H.,Wright,,0
+Anna,Brown,,Anna,Brown,,0
+Diana,Johnson,"1398 Apple Dr, San Antonio, MI 48427",Diana,Johnson,,0
+Marcus,Lee,"9752 Redwood St, San Antonio, FL 94706",Marcus,Lee,"9752 Redwood St, San Antonio, FL 94706",1
+John,Miller,"1846 Birch Dr, San Jose, CA 54534",John A.,Miller,"2349 Redwood St, San Antonio, NC 12019",0
+Jane,Brown,"2742 Cedar Ct, Dallas, GA 53909",Jane,Brown,"5657 Oak Ave, Chicago, FL 38751",0
+Rob,Williams,"7105 Redwood St, San Antonio, GA 81216",Rob,Williams,"7105 Redwood St, Houston, GA 81216",0
+Mary,Clark,"1674 Maple Rd, San Jose, CA 13945",Mary,Clark,"268 Pine Ln, Houston, MI 62783",0
+Jane,Wilson,"7497 Redwood St, San Antonio, CA 93702",Jane,Wilson,"2528 Elm Street, Los Angeles, MI 34527",0
+Sarah,Martinez,"7713 Sunset Blvd, Los Angeles, NY 18063",Sarah E.,Martinez,"7185 Valley Rd, San Jose, IL 30125",0
+Adam,Smith,"2377 Cedar Ct, San Antonio, CA 45164",Adam,Smith,"7649 Oak Ave, Philadelphia, MI 69474",0
+Rob,Wilson,"1423 Oak Ave, New York, PA 55806",Rob,Wilson,,0
+Lisa,Martinez,"3941 Maple Rd, Chicago, FL 35768",Lisa,Martinez,"3941 Maple Rd, Chicago, FL 35768 Apt 32",1
+Rob,Clark,"2661 Elm Street, San Diego, IL 10418",Rob,Clark,"4751 Pine Ln, Philadelphia, TX 22417",0
+Jane,Martinez,,Jane D.,Martinez,"7432 Valley Rd, Chicago, PA 67222",0
+Karen,Davis,"9566 Elm Street, Dallas, MI 49009",Karen,Davis,"9566 Elm Street, Dallas, MI 49009",1
+Michael,Kim,"427 Sunset Blvd, San Diego, IL 33390",Michael,Kim,"5453 Sunset Blvd, Phoenix, CA 88530",0
+Anna,Williams,"8972 Sunset Blvd, Chicago, PA 35092",Anna,Williams,"8972 Sunset Blvd, Chicago, PA 35092 Apt 16",1
+Marcus,Miller,"2901 Cedar Ct, Phoenix, PA 60031",Marcus,Miller,"4073 Maple Rd, San Antonio, PA 93190",0
+Marcus,Clark,"6297 Maple Rd, Chicago, PA 47162",Marcus,Clark,"6297 Maple Rd, Chicago, PA 47162",1
+Dave,Kim,"4357 Elm Street, Houston, AZ 22857",Dave,Kim,"4527 Cedar Ct, New York, CA 42406",0
+John,Lee,"2117 Elm Street, Phoenix, NC 24778",John,Lee,"2117 Elm Street, Phoenix, NC 24778 Apt 37",1
+Marcus,Brown,"7684 Cedar Ct, New York, FL 44256",Marcus,Brown,"7684 Cedar Ct, New York, FL 44256",1
+Dave,Lee,"9957 Apple Dr, Dallas, FL 38764",Dave C.,Lee,"4512 Oak Ave, San Diego, PA 34287",0
+Michael,Miller,"7120 Oak Ave, New York, TX 72292",Michael,Miller,,0
+Chris,Martinez,"6568 Oak Ave, Houston, AZ 22002",Chris,Martinez,"6568 Oak Ave, New York, AZ 22002",0
+Dave,Davis,"1424 Elm Street, San Diego, CA 95333",Dave,Davis,"1424 Elm Street, San Diego, CA 95333 Apt 7",1
+Lisa,Johnson,"5489 Cedar Ct, Los Angeles, NC 90584",Lisa D.,Johnson,"3882 Redwood St, Phoenix, PA 66662",0
+Marcus,Kim,"3535 Valley Rd, Los Angeles, GA 73280",Marcus,Kim,,0
+Dave,Anderson,"4145 Birch Dr, Philadelphia, CA 24327",Dave F.,Anderson,"8825 Elm Street, New York, AZ 99777",0
+Jane,Smith,"6091 Cedar Ct, New York, TX 71644",Jane,Smith,"6091 Cedar Ct, New York, TX 71644 Apt 15",1
+Rob,Kim,"9269 Apple Dr, Chicago, GA 54064",Rob K.,Kim,"8591 Valley Rd, San Diego, GA 11684",0
+Sarah,Lee,,Sarah,Lee,,1
+Karen,Lee,"2777 Sunset Blvd, Philadelphia, TX 65740",Karen,Lee,"2777 Sunset Blvd, San Diego, TX 65740",0
+Mary,Brown,,Mary,Brown,,0
+Diana,Williams,"4504 Apple Dr, Dallas, TX 89014",Diana,Williams,,0
+John,Wilson,"1307 Birch Dr, Los Angeles, TX 59062",John,Wilson,"1307 Birch Dr, Los Angeles, TX 59062",1
+Karen,Smith,"2391 Maple Rd, Chicago, FL 12776",Karen,Smith,,0
+Marcus,Anderson,"1134 Birch Dr, San Jose, PA 45303",Marcus,Anderson,,0
+Rob,Anderson,"2071 Maple Rd, San Jose, AZ 89015",Rob,Anderson,"2071 Maple Rd, San Jose, AZ 89015",1
+Maria,Wright,"3635 Valley Rd, San Jose, PA 22672",Maria,Wright,"4935 Maple Rd, New York, CA 15008",0
+Marcus,Taylor,"6064 Cedar Ct, Chicago, TX 19296",Marcus,Taylor,"6064 Cedar Ct, Chicago, TX 19296",1
+Mary,Miller,"358 Valley Rd, Dallas, FL 24911",Mary,Miller,"358 Valley Rd, Dallas, FL 24911",1
+Sarah,Davis,"4384 Maple Rd, Philadelphia, MI 61377",Sarah,Davis,"6019 Redwood St, New York, TX 55954",0
+Rob,Williams,"2122 Cedar Ct, San Antonio, TX 97289",Rob,Williams,"2122 Cedar Ct, San Antonio, TX 97289",1
+Marcus,Taylor,"7350 Cedar Ct, Phoenix, AZ 43046",Marcus,Taylor,,0
+Marcus,Lee,"9963 Maple Rd, Los Angeles, NC 89287",Marcus,Lee,"9963 Maple Rd, Los Angeles, NC 89287",1
+Sarah,Anderson,"4890 Redwood St, Los Angeles, IL 72782",Sarah,Anderson,,0
+Lisa,Clark,"4915 Cedar Ct, Chicago, AZ 45325",Lisa D.,Clark,"3726 Cedar Ct, Phoenix, NC 38172",0
+Diana,Kim,"98 Apple Dr, New York, PA 81245",Diana A.,Kim,"918 Valley Rd, Dallas, NY 11207",0
+John,Wilson,"2726 Oak Ave, San Diego, TX 74123",John,Wilson,"2726 Oak Ave, Chicago, TX 74123",0
+Adam,Lee,"5966 Sunset Blvd, Philadelphia, GA 62448",Adam,Lee,,0
+Rob,Kim,"5022 Birch Dr, Chicago, AZ 90823",Rob,Kim,"5022 Birch Dr, Houston, AZ 90823",0
+Diana,Anderson,,Diana,Anderson,,0
+Diana,Kim,"4555 Oak Ave, Houston, MI 38453",Diana,Kim,"4555 Oak Ave, Houston, MI 38453",1
+Anna,Clark,"1999 Birch Dr, Philadelphia, NC 83426",Anna,Clark,"1999 Birch Dr, Philadelphia, NC 83426 Apt 28",1
+John,Clark,"1170 Valley Rd, San Jose, GA 67403",John E.,Clark,"6541 Sunset Blvd, San Jose, IL 19763",0
+John,Allen,,John J.,Allen,"3889 Cedar Ct, Dallas, NC 44672",0
+Dave,Taylor,"8576 Birch Dr, New York, MI 64290",Dave,Taylor,"8576 Birch Dr, New York, MI 64290",1
+Michael,Allen,"3873 Oak Ave, San Diego, PA 64185",Michael,Allen,"3873 Oak Ave, San Diego, PA 64185",1
+Adam,Lee,"4625 Cedar Ct, Dallas, FL 95364",Adam,Lee,"5992 Elm Street, Chicago, IL 42764",0
+Diana,Smith,"6566 Sunset Blvd, San Diego, IL 95506",Diana,Smith,"6566 Sunset Blvd, San Diego, IL 95506 Apt 37",1
+Anna,Kim,"5553 Apple Dr, Los Angeles, GA 83906",Anna,Kim,,0
+Adam,Clark,"9442 Pine Ln, San Antonio, FL 44538",Adam,Clark,"1998 Pine Ln, New York, NY 38496",0
+Michael,Wilson,"9816 Cedar Ct, Los Angeles, TX 72653",Michael,Wilson,,0
+Chris,Miller,"420 Pine Ln, Dallas, AZ 85768",Chris,Miller,"420 Pine Ln, Houston, AZ 85768",0
+Anna,Wilson,"5371 Sunset Blvd, San Jose, GA 65534",Anna E.,Wilson,"6184 Maple Rd, Philadelphia, FL 66077",0
+Adam,Davis,,Adam F.,Davis,"1614 Apple Dr, Dallas, TX 98385",0
+Anna,Clark,"9289 Pine Ln, San Diego, AZ 24634",Anna,Clark,,0
+John,Miller,"2070 Oak Ave, Philadelphia, MI 52460",John K.,Miller,"815 Cedar Ct, Dallas, AZ 74400",0
+Michael,Lee,,Michael,Lee,,0
+Karen,Johnson,"680 Birch Dr, Los Angeles, IL 25236",Karen,Johnson,"680 Birch Dr, Los Angeles, IL 25236",1
+Michael,Kim,"1585 Valley Rd, San Jose, AZ 45301",Michael,Kim,,0
+Diana,Martinez,"2167 Pine Ln, San Jose, PA 85879",Diana J.,Martinez,"4273 Apple Dr, San Antonio, NC 23796",0
+John,Wilson,"7011 Maple Rd, Philadelphia, TX 35827",John,Wilson,"7011 Maple Rd, San Jose, TX 35827",0
+Diana,Martinez,"6499 Sunset Blvd, San Jose, NC 10276",Diana F.,Martinez,,0
+Marcus,Taylor,"4548 Pine Ln, Dallas, MI 34540",Marcus,Taylor,"4548 Pine Ln, Dallas, MI 34540",1
+Michael,Williams,"5746 Sunset Blvd, San Antonio, GA 42071",Michael,Williams,"5746 Sunset Blvd, San Antonio, GA 42071 Apt 41",1
+Michael,Taylor,"3426 Apple Dr, Los Angeles, MI 49473",Michael,Taylor,,0
+Chris,Wilson,"8845 Apple Dr, Chicago, IL 76673",Chris,Wilson,"8845 Apple Dr, Chicago, IL 76673 Apt 36",1
+Mary,Brown,"6269 Valley Rd, San Antonio, IL 13718",Mary,Brown,"6269 Valley Rd, San Antonio, IL 13718",1
+Dave,Wilson,"2847 Cedar Ct, Philadelphia, TX 62090",Dave A.,Wilson,"2396 Sunset Blvd, Houston, AZ 12551",0
+Mary,Taylor,"3588 Pine Ln, Philadelphia, FL 98367",Mary,Taylor,,0
+Diana,Lee,"7592 Cedar Ct, San Diego, GA 76706",Diana,Lee,"4915 Elm Street, Phoenix, FL 93023",0
+Lisa,Lee,"6843 Elm Street, Los Angeles, IL 94497",Lisa,Lee,"6321 Apple Dr, Houston, AZ 62892",0
+Sarah,Davis,"4524 Apple Dr, Phoenix, FL 53858",Sarah,Davis,,0
+Dave,Williams,"8904 Oak Ave, New York, NY 79671",Dave,Williams,,0
+Michael,Smith,"4682 Redwood St, San Antonio, TX 58349",Michael,Smith,"6276 Cedar Ct, Chicago, NC 85527",0
+Sarah,Smith,"4443 Elm Street, New York, IL 20047",Sarah,Smith,"4443 Elm Street, New York, IL 20047 Apt 44",1
+Sarah,Wilson,"8474 Redwood St, Houston, NY 58513",Sarah H.,Wilson,"3775 Maple Rd, San Jose, NY 67307",0
+Anna,Davis,"11 Valley Rd, Houston, FL 13453",Anna,Davis,,0
+Lisa,Kim,"8965 Pine Ln, San Diego, MI 90903",Lisa,Kim,"8965 Pine Ln, San Diego, MI 90903",1
+Lisa,Johnson,"8757 Elm Street, San Diego, AZ 58669",Lisa,Johnson,"9358 Elm Street, Phoenix, GA 81801",0
+Lisa,Smith,"3353 Maple Rd, San Antonio, AZ 51850",Lisa,Smith,,0
+Maria,Taylor,"5081 Pine Ln, San Jose, GA 50067",Maria,Taylor,,0
+Lisa,Lee,"3782 Cedar Ct, Los Angeles, MI 77329",Lisa,Lee,,0
+Marcus,Wright,"3354 Valley Rd, New York, NY 81067",Marcus,Wright,,0
+Rob,Allen,"578 Pine Ln, San Jose, FL 64404",Rob D.,Allen,"154 Cedar Ct, Houston, GA 48094",0
+Rob,Kim,"9543 Apple Dr, New York, MI 61584",Rob,Kim,"9543 Apple Dr, New York, MI 61584",1
+Lisa,Taylor,"956 Sunset Blvd, Los Angeles, AZ 48111",Lisa,Taylor,"5994 Apple Dr, Houston, TX 85394",0
+Adam,Anderson,"4305 Birch Dr, Los Angeles, GA 23903",Adam,Anderson,,0
+Chris,Davis,"972 Oak Ave, New York, PA 26204",Chris,Davis,"972 Oak Ave, Houston, PA 26204",0
+Adam,Williams,"7880 Redwood St, Phoenix, IL 15798",Adam,Williams,"6700 Maple Rd, San Diego, MI 68168",0
+Jane,Smith,"6853 Pine Ln, Dallas, TX 80051",Jane,Smith,,0
+Lisa,Allen,"1725 Sunset Blvd, Phoenix, AZ 35787",Lisa,Allen,"1725 Sunset Blvd, Phoenix, AZ 35787",1
+Mary,Lee,"2606 Elm Street, Philadelphia, CA 46878",Mary,Lee,,0
+Jane,Williams,"407 Valley Rd, Los Angeles, IL 20280",Jane,Williams,"407 Valley Rd, Phoenix, IL 20280",0
+Michael,Williams,,Michael,Williams,,1
+Anna,Taylor,"906 Birch Dr, San Antonio, AZ 21278",Anna,Taylor,"906 Birch Dr, San Antonio, AZ 21278",1
+Rob,Wright,"3406 Maple Rd, Phoenix, FL 78043",Rob,Wright,"3406 Maple Rd, San Antonio, FL 78043",0
+Jane,Davis,,Jane,Davis,,0
+Karen,Kim,"4467 Birch Dr, San Antonio, FL 28008",Karen,Kim,"4467 Birch Dr, San Antonio, FL 28008",1
+Lisa,Lee,"9671 Redwood St, Los Angeles, CA 52444",Lisa,Lee,,0
+Chris,Miller,,Chris,Miller,,0
+Karen,Brown,"4061 Valley Rd, San Jose, IL 30306",Karen,Brown,,0
+Marcus,Miller,"5453 Cedar Ct, Houston, NC 21971",Marcus,Miller,"9425 Valley Rd, Chicago, TX 49726",0
+Sarah,Wright,"4898 Cedar Ct, San Diego, IL 30083",Sarah,Wright,,0
+Rob,Davis,"5611 Oak Ave, Phoenix, FL 38877",Rob,Davis,"5611 Oak Ave, Phoenix, FL 38877",0
+Michael,Brown,"6557 Elm Street, San Diego, AZ 75897",Michael,Brown,"6557 Elm Street, San Diego, AZ 75897 Apt 42",1
+Michael,Brown,"903 Elm Street, San Antonio, IL 31468",Michael,Brown,"903 Elm Street, San Antonio, IL 31468",1
+John,Martinez,"4913 Redwood St, Los Angeles, FL 32145",John,Martinez,,0
+Michael,Taylor,"5633 Maple Rd, San Jose, IL 66737",Michael,Taylor,,0
+Chris,Wright,"9300 Apple Dr, Phoenix, GA 53346",Chris,Wright,"9300 Apple Dr, Phoenix, GA 53346 Apt 40",1
+Jane,Martinez,"592 Redwood St, Houston, GA 73416",Jane,Martinez,,0
+Maria,Anderson,"553 Birch Dr, Phoenix, NC 29411",Maria,Anderson,"6797 Apple Dr, Los Angeles, AZ 72819",0
+Karen,Anderson,"724 Apple Dr, Chicago, MI 34671",Karen A.,Anderson,"660 Apple Dr, Dallas, NY 36733",0
+Anna,Davis,"9181 Cedar Ct, Los Angeles, NC 20755",Anna G.,Davis,"247 Apple Dr, Phoenix, TX 54004",0
+Diana,Clark,,Diana,Clark,,0
+Maria,Anderson,"1130 Birch Dr, Los Angeles, NC 83698",Maria,Anderson,"1069 Maple Rd, San Jose, PA 19329",0
+Lisa,Davis,"9820 Birch Dr, Dallas, PA 53063",Lisa,Davis,"9820 Birch Dr, San Antonio, PA 53063",0
+Michael,Wilson,"78 Birch Dr, Dallas, TX 22397",Michael,Wilson,,0
+Anna,Anderson,"7566 Redwood St, San Antonio, GA 49404",Anna E.,Anderson,"366 Maple Rd, San Antonio, GA 12366",0
+Michael,Allen,"8854 Valley Rd, San Jose, MI 59686",Michael,Allen,,0
+Karen,Miller,,Karen,Miller,"2674 Valley Rd, Chicago, TX 49830",0
+Dave,Wilson,"9777 Pine Ln, San Diego, FL 84209",Dave E.,Wilson,"1104 Cedar Ct, Los Angeles, AZ 71308",0
+Lisa,Miller,"5242 Elm Street, Los Angeles, FL 61933",Lisa,Miller,"5242 Elm Street, Los Angeles, FL 61933",1
+Karen,Kim,"4213 Birch Dr, New York, NY 89649",Karen J.,Kim,"2668 Cedar Ct, Chicago, NY 61389",0
+Anna,Wright,"8404 Oak Ave, San Diego, TX 78495",Anna,Wright,"8404 Oak Ave, San Diego, TX 78495",1
+Marcus,Kim,"6998 Sunset Blvd, Los Angeles, PA 19318",Marcus E.,Kim,,0
+Adam,Williams,,Adam,Williams,"906 Redwood St, San Antonio, FL 97603",0
+John,Clark,,John,Clark,"176 Maple Rd, San Diego, FL 57215",0
+Maria,Anderson,"7105 Pine Ln, New York, FL 84241",Maria,Anderson,,0
+Jane,Miller,"7224 Redwood St, Chicago, AZ 85717",Jane,Miller,"9984 Valley Rd, Dallas, CA 57078",0
+Marcus,Williams,"9128 Cedar Ct, Philadelphia, GA 71959",Marcus B.,Williams,"9249 Maple Rd, Philadelphia, NY 89985",0
+Michael,Davis,"2585 Pine Ln, New York, FL 39890",Michael,Davis,"2585 Pine Ln, New York, FL 39890",1
+Chris,Johnson,"1033 Birch Dr, Phoenix, AZ 73203",Chris K.,Johnson,"2466 Valley Rd, Chicago, FL 89134",0
+Adam,Williams,"8229 Oak Ave, Los Angeles, PA 83884",Adam,Williams,,0
+Mary,Brown,"3874 Valley Rd, San Diego, CA 53236",Mary,Brown,"3874 Valley Rd, San Diego, CA 53236",1
+Jane,Brown,"6129 Birch Dr, San Diego, PA 51993",Jane,Brown,"7933 Elm Street, Chicago, AZ 92319",0
+Chris,Taylor,"1425 Birch Dr, Dallas, PA 93597",Chris J.,Taylor,"7118 Valley Rd, Los Angeles, FL 26539",0
+Anna,Wright,"5050 Elm Street, San Diego, TX 94618",Anna G.,Wright,"8133 Pine Ln, Dallas, IL 73494",0
+Jane,Martinez,,Jane,Martinez,,0
+Sarah,Wright,"9915 Cedar Ct, Chicago, NC 83777",Sarah,Wright,"9915 Cedar Ct, Chicago, NC 83777",1
+Sarah,Lee,"8101 Birch Dr, San Antonio, PA 23998",Sarah,Lee,"4441 Pine Ln, San Jose, GA 80590",0
+Dave,Smith,"1574 Oak Ave, Dallas, TX 45718",Dave,Smith,"1574 Oak Ave, Chicago, TX 45718",0
+Dave,Clark,"1925 Cedar Ct, San Antonio, CA 37450",Dave,Clark,"1925 Cedar Ct, San Antonio, CA 37450 Apt 36",1
+Chris,Kim,"4569 Redwood St, San Diego, GA 96993",Chris,Kim,,0
+John,Williams,"1984 Cedar Ct, Houston, CA 50453",John D.,Williams,"7632 Pine Ln, New York, MI 50231",0
+Maria,Davis,"513 Birch Dr, Philadelphia, IL 69016",Maria,Davis,"6597 Sunset Blvd, Phoenix, FL 78396",0
+Maria,Brown,"1039 Pine Ln, San Jose, NC 36727",Maria,Brown,"1039 Pine Ln, Chicago, NC 36727",0
+Chris,Brown,,Chris,Brown,"2767 Oak Ave, Chicago, NC 31425",0
+Rob,Taylor,"4579 Cedar Ct, New York, NC 16628",Rob,Taylor,"2330 Sunset Blvd, San Jose, FL 54073",0
+Marcus,Smith,"2896 Maple Rd, Dallas, AZ 11779",Marcus E.,Smith,"1925 Valley Rd, San Diego, GA 64237",0
+Michael,Martinez,"814 Apple Dr, Chicago, GA 17682",Michael F.,Martinez,"6153 Maple Rd, San Jose, NC 93042",0
+Chris,Taylor,,Chris C.,Taylor,"5135 Redwood St, San Antonio, NY 64604",0
+Sarah,Allen,"4417 Maple Rd, Houston, FL 83401",Sarah,Allen,,0
+Rob,Williams,"8444 Redwood St, Los Angeles, NY 50569",Rob H.,Williams,"8998 Cedar Ct, Los Angeles, GA 35865",0
+Karen,Anderson,"4249 Sunset Blvd, Chicago, GA 18612",Karen,Anderson,"4249 Sunset Blvd, Chicago, GA 18612",0
+Anna,Allen,"8498 Maple Rd, Dallas, IL 64838",Anna J.,Allen,"5351 Birch Dr, Los Angeles, TX 22252",0
+Lisa,Brown,"2181 Birch Dr, Los Angeles, TX 21686",Lisa G.,Brown,"3624 Cedar Ct, Chicago, TX 93475",0
+Karen,Kim,"1482 Oak Ave, Los Angeles, AZ 55499",Karen H.,Kim,"4443 Cedar Ct, San Antonio, NY 74394",0
+Diana,Davis,"8339 Pine Ln, Philadelphia, NY 75882",Diana,Davis,,0
+Sarah,Martinez,"3162 Maple Rd, San Jose, PA 12637",Sarah,Martinez,"3162 Maple Rd, San Jose, PA 12637",1
+Diana,Clark,"7528 Oak Ave, Chicago, GA 23606",Diana D.,Clark,"1596 Cedar Ct, Los Angeles, GA 84010",0
+Marcus,Smith,"4367 Maple Rd, Philadelphia, NC 51217",Marcus,Smith,,0
+Diana,Johnson,"7366 Elm Street, Chicago, TX 17813",Diana,Johnson,"7366 Elm Street, Phoenix, TX 17813",0
+Michael,Wilson,"5886 Sunset Blvd, Los Angeles, GA 50159",Michael,Wilson,,0
+Maria,Williams,"6231 Valley Rd, Chicago, PA 23968",Maria H.,Williams,"1091 Pine Ln, Phoenix, GA 54370",0
+Marcus,Lee,"825 Sunset Blvd, Phoenix, NC 51503",Marcus,Lee,"3309 Elm Street, Chicago, IL 32664",0
+Diana,Brown,"8729 Sunset Blvd, San Diego, CA 20937",Diana,Brown,"8729 Sunset Blvd, San Diego, CA 20937",1
+Diana,Wilson,"3749 Valley Rd, San Jose, PA 22479",Diana G.,Wilson,"2271 Sunset Blvd, Dallas, GA 52738",0
+Michael,Wilson,"9266 Sunset Blvd, Philadelphia, NY 19566",Michael A.,Wilson,"5774 Apple Dr, Philadelphia, MI 60648",0
+Michael,Allen,"7642 Oak Ave, Chicago, CA 72170",Michael,Allen,"7642 Oak Ave, New York, CA 72170",0
+Diana,Allen,"6304 Valley Rd, Phoenix, PA 16421",Diana,Allen,"6304 Valley Rd, San Antonio, PA 16421",0
+Mary,Clark,"9527 Sunset Blvd, San Jose, PA 81836",Mary,Clark,,0
+Mary,Davis,"9537 Valley Rd, Houston, FL 38520",Mary,Davis,"9537 Valley Rd, Chicago, FL 38520",0
+Adam,Martinez,,Adam,Martinez,,1
+Marcus,Smith,"5510 Birch Dr, Philadelphia, PA 34191",Marcus,Smith,,0
+Maria,Allen,"4592 Cedar Ct, Los Angeles, CA 69955",Maria,Allen,,0
+Diana,Williams,"1033 Sunset Blvd, Houston, MI 36688",Diana D.,Williams,"9148 Pine Ln, San Diego, AZ 19512",0
+Diana,Brown,"2102 Valley Rd, Houston, NY 56026",Diana,Brown,,0
+John,Taylor,"9898 Sunset Blvd, San Diego, PA 59731",John,Taylor,"9898 Sunset Blvd, San Diego, PA 59731 Apt 45",1
+Adam,Clark,"9756 Cedar Ct, San Antonio, TX 58611",Adam,Clark,,0
+Rob,Wilson,"8931 Valley Rd, Chicago, NC 99810",Rob,Wilson,"8931 Valley Rd, Chicago, NC 99810",1
+Sarah,Kim,"6016 Elm Street, San Diego, CA 75975",Sarah,Kim,"481 Elm Street, Houston, NC 62606",0
+Rob,Smith,"1530 Cedar Ct, San Antonio, TX 17007",Rob,Smith,"1530 Cedar Ct, Phoenix, TX 17007",0
+Rob,Wright,"7051 Sunset Blvd, San Diego, MI 89498",Rob E.,Wright,"3229 Valley Rd, Philadelphia, PA 75437",0
+Marcus,Allen,"9011 Birch Dr, San Antonio, GA 81635",Marcus A.,Allen,"472 Maple Rd, Philadelphia, CA 68124",0
+Michael,Davis,"6424 Birch Dr, Chicago, CA 99763",Michael H.,Davis,"6117 Sunset Blvd, San Jose, AZ 35947",0
+Rob,Martinez,"1599 Valley Rd, San Diego, AZ 77824",Rob,Martinez,"1599 Valley Rd, San Diego, AZ 77824",1
+Jane,Lee,"2339 Birch Dr, Chicago, AZ 99591",Jane,Lee,"2339 Birch Dr, Philadelphia, AZ 99591",0
+Anna,Williams,"9594 Oak Ave, Phoenix, TX 98420",Anna,Williams,"9594 Oak Ave, Phoenix, TX 98420",1
+Mary,Taylor,"1750 Valley Rd, Phoenix, GA 79767",Mary,Taylor,"4266 Oak Ave, Dallas, AZ 40908",0
+Marcus,Clark,"3997 Elm Street, New York, TX 22762",Marcus,Clark,"5333 Maple Rd, Phoenix, TX 95823",0
+Chris,Davis,"9495 Birch Dr, New York, IL 45157",Chris,Davis,"9495 Birch Dr, New York, IL 45157",1
+Diana,Davis,"5188 Apple Dr, Los Angeles, MI 41181",Diana,Davis,,0
+Rob,Kim,"165 Sunset Blvd, Chicago, AZ 45191",Rob,Kim,"165 Sunset Blvd, Chicago, AZ 45191",1
+Marcus,Johnson,"7483 Maple Rd, Phoenix, MI 76372",Marcus,Johnson,"7483 Maple Rd, Phoenix, MI 76372",1
+Diana,Wilson,"5172 Maple Rd, Houston, GA 33846",Diana,Wilson,,0
+Diana,Clark,"1354 Elm Street, Dallas, GA 58964",Diana,Clark,"4738 Apple Dr, San Diego, NY 24950",0
+Marcus,Smith,"6516 Redwood St, New York, GA 76806",Marcus,Smith,"6516 Redwood St, New York, GA 76806",1
+Anna,Lee,"3774 Birch Dr, Los Angeles, AZ 58645",Anna,Lee,,0
+Marcus,Anderson,"3988 Maple Rd, Dallas, MI 23825",Marcus,Anderson,"9950 Redwood St, San Antonio, IL 22534",0
+Adam,Davis,"3139 Sunset Blvd, Houston, NY 81264",Adam,Davis,"3139 Sunset Blvd, Houston, NY 81264",1
+Adam,Kim,"6831 Maple Rd, San Jose, TX 64264",Adam K.,Kim,"9445 Apple Dr, Los Angeles, NY 63733",0
+Lisa,Lee,"2693 Maple Rd, Los Angeles, NC 26036",Lisa,Lee,"2693 Maple Rd, Los Angeles, NC 26036 Apt 48",1
+Chris,Wilson,,Chris D.,Wilson,"3890 Redwood St, San Jose, FL 69090",0
+Dave,Miller,"484 Apple Dr, Los Angeles, CA 88262",Dave,Miller,"484 Apple Dr, Los Angeles, CA 88262",1
+Mary,Miller,"1595 Pine Ln, San Diego, TX 93395",Mary,Miller,"1595 Pine Ln, San Diego, TX 93395",1
+Anna,Clark,"4998 Valley Rd, San Antonio, TX 59077",Anna,Clark,"2879 Birch Dr, San Diego, CA 20985",0
+Karen,Lee,"8893 Sunset Blvd, Los Angeles, PA 20125",Karen,Lee,"8893 Sunset Blvd, Los Angeles, PA 20125",1
+Dave,Williams,"2162 Elm Street, New York, MI 87042",Dave,Williams,"2162 Elm Street, Los Angeles, MI 87042",0
+Rob,Kim,"7722 Apple Dr, San Jose, GA 86562",Rob B.,Kim,"2927 Apple Dr, Chicago, FL 84677",0
+Maria,Kim,"1013 Maple Rd, Phoenix, AZ 95003",Maria A.,Kim,"4222 Elm Street, San Antonio, FL 16325",0
+Chris,Taylor,"4737 Valley Rd, Phoenix, FL 38080",Chris F.,Taylor,"2354 Cedar Ct, Philadelphia, TX 24173",0
+Mary,Wright,"3071 Redwood St, Houston, CA 45017",Mary,Wright,,0
+Lisa,Smith,"3767 Apple Dr, New York, PA 42690",Lisa,Smith,"6883 Pine Ln, San Antonio, NC 16919",0
+Sarah,Williams,"4381 Pine Ln, Houston, TX 64526",Sarah,Williams,,0
+Anna,Martinez,"9273 Oak Ave, San Diego, PA 97637",Anna,Martinez,"9273 Oak Ave, San Diego, PA 97637",1
+Lisa,Wilson,"8341 Pine Ln, San Antonio, AZ 15811",Lisa,Wilson,"8341 Pine Ln, San Diego, AZ 15811",0
+Anna,Johnson,"5977 Valley Rd, San Jose, FL 42975",Anna,Johnson,"5977 Valley Rd, San Jose, FL 42975",1
+Anna,Martinez,"9056 Sunset Blvd, New York, MI 56187",Anna,Martinez,"9056 Sunset Blvd, New York, MI 56187 Apt 4",1
+Chris,Kim,,Chris,Kim,,0
+Chris,Williams,"3030 Apple Dr, San Antonio, GA 41267",Chris,Williams,"4422 Birch Dr, San Antonio, FL 51958",0
+Jane,Allen,"3109 Cedar Ct, San Jose, PA 43302",Jane,Allen,"3109 Cedar Ct, San Jose, PA 43302 Apt 10",1
+Dave,Brown,"4592 Sunset Blvd, Phoenix, IL 28673",Dave,Brown,"4592 Sunset Blvd, Phoenix, IL 28673 Apt 9",1
+Dave,Davis,"8375 Pine Ln, Philadelphia, CA 67578",Dave H.,Davis,,0
+Lisa,Allen,"2154 Pine Ln, Los Angeles, FL 33999",Lisa,Allen,"2154 Pine Ln, Los Angeles, FL 33999 Apt 36",1
+Chris,Brown,"261 Apple Dr, Dallas, NY 23940",Chris,Brown,"3937 Sunset Blvd, Houston, NC 55450",0
+Michael,Smith,"9378 Elm Street, Dallas, FL 81588",Michael B.,Smith,"1233 Pine Ln, Los Angeles, IL 72482",0
+Maria,Johnson,"6670 Redwood St, San Diego, NC 67980",Maria,Johnson,,0
+Sarah,Davis,"2195 Sunset Blvd, Chicago, GA 20819",Sarah,Davis,"2195 Sunset Blvd, Chicago, GA 20819",1
+Anna,Clark,"7326 Pine Ln, San Jose, IL 53021",Anna F.,Clark,"506 Maple Rd, Phoenix, NY 71396",0
+Marcus,Allen,"2151 Valley Rd, Phoenix, PA 80960",Marcus,Allen,"2151 Valley Rd, Phoenix, PA 80960",0
+Dave,Clark,"4619 Pine Ln, Phoenix, TX 65086",Dave D.,Clark,,0
+Dave,Davis,"7452 Sunset Blvd, San Diego, AZ 37074",Dave,Davis,"7452 Sunset Blvd, San Diego, AZ 37074",1
+Karen,Anderson,"6513 Apple Dr, San Jose, TX 80279",Karen,Anderson,"6513 Apple Dr, San Jose, TX 80279",1
+Anna,Anderson,"9271 Elm Street, San Antonio, AZ 40170",Anna,Anderson,"4591 Maple Rd, Dallas, TX 36056",0
+Marcus,Miller,,Marcus,Miller,,0
+Rob,Kim,"4754 Pine Ln, Chicago, NY 39572",Rob,Kim,,0
+Maria,Martinez,,Maria,Martinez,"2979 Oak Ave, Houston, AZ 36968",0
+Maria,Brown,"4938 Pine Ln, San Jose, MI 48538",Maria,Brown,"4938 Pine Ln, San Jose, MI 48538",1
+Sarah,Johnson,"8797 Apple Dr, San Jose, TX 14767",Sarah,Johnson,"8797 Apple Dr, San Jose, TX 14767",1
+Diana,Clark,"5906 Sunset Blvd, Dallas, MI 86529",Diana,Clark,"9005 Pine Ln, Houston, NY 87594",0
+Mary,Anderson,"2060 Redwood St, San Jose, GA 85388",Mary,Anderson,"6350 Maple Rd, San Jose, AZ 39766",0
+Marcus,Lee,"1432 Apple Dr, San Diego, NC 28124",Marcus,Lee,"9293 Pine Ln, Dallas, TX 53197",0
+Lisa,Smith,"6709 Pine Ln, Los Angeles, NC 27767",Lisa J.,Smith,"1716 Cedar Ct, Los Angeles, GA 71149",0
+Diana,Clark,"2463 Redwood St, Los Angeles, IL 64660",Diana,Clark,"2463 Redwood St, Phoenix, IL 64660",0
+Adam,Kim,"6449 Elm Street, Chicago, PA 12341",Adam,Kim,,0
+Jane,Davis,"2778 Elm Street, San Diego, FL 63210",Jane,Davis,"2778 Elm Street, San Diego, FL 63210",1
+Dave,Allen,,Dave,Allen,"713 Redwood St, San Antonio, GA 11228",0
+Jane,Smith,"1642 Oak Ave, San Diego, MI 85101",Jane,Smith,"1642 Oak Ave, San Diego, MI 85101 Apt 39",1
+Lisa,Williams,"7501 Elm Street, San Diego, PA 79747",Lisa,Williams,"7501 Elm Street, San Diego, PA 79747",1
+Adam,Miller,"9764 Elm Street, San Jose, CA 98734",Adam,Miller,,0
+Rob,Taylor,"828 Valley Rd, Los Angeles, AZ 96725",Rob,Taylor,,0
+Karen,Wright,"5392 Cedar Ct, Chicago, PA 37520",Karen G.,Wright,"8912 Valley Rd, Dallas, IL 94160",0
+John,Clark,"3194 Sunset Blvd, Houston, PA 77934",John F.,Clark,"7350 Redwood St, Chicago, GA 31699",0
+Adam,Brown,"1923 Redwood St, Phoenix, CA 23556",Adam,Brown,"1923 Redwood St, San Antonio, CA 23556",0
+Jane,Allen,"9529 Elm Street, San Antonio, CA 72285",Jane,Allen,"9529 Elm Street, San Antonio, CA 72285",1
+Anna,Allen,"6138 Apple Dr, Phoenix, IL 86998",Anna E.,Allen,"6892 Oak Ave, Phoenix, IL 76542",0
+Jane,Davis,"7552 Maple Rd, New York, GA 74583",Jane,Davis,"7552 Maple Rd, New York, GA 74583 Apt 21",1
+Maria,Taylor,"6848 Sunset Blvd, San Jose, NY 56742",Maria,Taylor,,0
+Marcus,Kim,"6823 Birch Dr, Phoenix, IL 38378",Marcus,Kim,"8159 Redwood St, New York, IL 49207",0
+Karen,Martinez,"2547 Cedar Ct, Los Angeles, AZ 80865",Karen,Martinez,,0
+Chris,Williams,"556 Sunset Blvd, New York, NY 14480",Chris,Williams,,0
+Diana,Allen,"1976 Maple Rd, Chicago, IL 31092",Diana F.,Allen,"5081 Apple Dr, Philadelphia, MI 20481",0
+Dave,Anderson,"5826 Valley Rd, New York, NC 51520",Dave J.,Anderson,,0
+Sarah,Wright,"6195 Pine Ln, Chicago, TX 21076",Sarah,Wright,"6195 Pine Ln, Chicago, TX 21076 Apt 28",1
+Adam,Johnson,"3366 Redwood St, Phoenix, GA 94593",Adam,Johnson,"5114 Elm Street, New York, GA 82951",0
+John,Davis,"2899 Birch Dr, San Jose, AZ 99840",John,Davis,"1775 Cedar Ct, Los Angeles, MI 65260",0
+Lisa,Kim,"3975 Pine Ln, Chicago, AZ 78967",Lisa,Kim,"3975 Pine Ln, Chicago, AZ 78967",1
+Diana,Martinez,"167 Valley Rd, Los Angeles, IL 48472",Diana,Martinez,"1112 Oak Ave, Chicago, CA 93243",0
+Sarah,Kim,"1394 Valley Rd, Los Angeles, GA 86369",Sarah,Kim,"1394 Valley Rd, Los Angeles, GA 86369 Apt 44",1
+Adam,Smith,"8570 Maple Rd, San Jose, NC 19623",Adam,Smith,"8820 Maple Rd, San Jose, MI 20824",0
+Maria,Brown,"757 Cedar Ct, Philadelphia, MI 54957",Maria,Brown,"757 Cedar Ct, Los Angeles, MI 54957",0
+Rob,Wright,"641 Redwood St, Dallas, TX 65373",Rob,Wright,,0
+Lisa,Davis,"7643 Maple Rd, Houston, GA 36184",Lisa F.,Davis,"1691 Sunset Blvd, San Diego, AZ 87214",0
+Rob,Wilson,"4447 Maple Rd, Houston, NY 67628",Rob,Wilson,"4447 Maple Rd, San Diego, NY 67628",0
+Jane,Williams,"1705 Pine Ln, Houston, TX 25825",Jane,Williams,"1771 Sunset Blvd, Philadelphia, TX 89734",0
+Sarah,Wilson,"8791 Pine Ln, Los Angeles, PA 20297",Sarah,Wilson,,0
+Rob,Anderson,,Rob,Anderson,,0
+Anna,Anderson,"150 Sunset Blvd, San Jose, IL 17782",Anna,Anderson,,0
+Jane,Clark,"222 Oak Ave, Dallas, GA 64930",Jane,Clark,"4836 Elm Street, San Jose, CA 70299",0
+Dave,Kim,,Dave,Kim,,0
+Lisa,Wright,"8275 Pine Ln, Phoenix, AZ 24913",Lisa,Wright,,0
+Michael,Miller,"6345 Redwood St, San Diego, MI 23718",Michael,Miller,"6345 Redwood St, San Diego, MI 23718 Apt 9",1
+Rob,Lee,"3978 Cedar Ct, Philadelphia, IL 51604",Rob,Lee,"3978 Cedar Ct, Philadelphia, IL 51604 Apt 37",1
+Michael,Wilson,"9306 Apple Dr, New York, AZ 12399",Michael,Wilson,"9306 Apple Dr, New York, AZ 12399",1
+Maria,Lee,"1792 Valley Rd, Houston, CA 57459",Maria,Lee,"1792 Valley Rd, Dallas, CA 57459",0
+Marcus,Brown,"740 Sunset Blvd, Phoenix, GA 33698",Marcus C.,Brown,"3225 Cedar Ct, Los Angeles, MI 18353",0
+Marcus,Johnson,"762 Oak Ave, Houston, NY 24844",Marcus,Johnson,,0
+Adam,Williams,"6373 Sunset Blvd, San Diego, FL 29594",Adam,Williams,,0
+Rob,Anderson,"6733 Maple Rd, New York, NY 24533",Rob,Anderson,"6733 Maple Rd, San Diego, NY 24533",0
+Jane,Clark,"1885 Apple Dr, New York, PA 66630",Jane,Clark,"1885 Apple Dr, New York, PA 66630",1
+Rob,Anderson,,Rob H.,Anderson,"2038 Oak Ave, Phoenix, MI 44107",0
+Karen,Williams,"1841 Redwood St, Philadelphia, NY 16262",Karen,Williams,,0
+Jane,Taylor,"4365 Sunset Blvd, Houston, NY 80249",Jane,Taylor,,0
+Adam,Lee,"9748 Valley Rd, San Diego, GA 38737",Adam,Lee,"8140 Redwood St, New York, TX 84332",0
+Karen,Wilson,"1404 Valley Rd, Houston, PA 49738",Karen,Wilson,"8798 Birch Dr, Houston, GA 35665",0
+Anna,Brown,"5708 Oak Ave, San Jose, GA 95119",Anna,Brown,,0
+Adam,Smith,"3529 Apple Dr, Chicago, NC 95298",Adam,Smith,"3529 Apple Dr, Chicago, NC 95298",1
+Mary,Davis,"4527 Apple Dr, Philadelphia, MI 38511",Mary,Davis,,0
+Chris,Williams,"1812 Pine Ln, Chicago, AZ 27427",Chris,Williams,"1812 Pine Ln, Chicago, AZ 27427",1
+Chris,Lee,"1269 Cedar Ct, Phoenix, NC 29506",Chris E.,Lee,"5565 Apple Dr, Los Angeles, GA 11682",0
+Mary,Miller,"8805 Maple Rd, Philadelphia, AZ 95125",Mary,Miller,"8805 Maple Rd, San Antonio, AZ 95125",0
+Maria,Lee,"1955 Apple Dr, San Diego, TX 36561",Maria G.,Lee,"3438 Elm Street, Chicago, IL 63160",0
+Dave,Allen,"7974 Cedar Ct, New York, IL 70599",Dave,Allen,,0
+John,Brown,"8934 Apple Dr, Chicago, GA 75607",John A.,Brown,"102 Apple Dr, Phoenix, PA 80142",0
+Adam,Miller,"3235 Birch Dr, San Diego, FL 42030",Adam,Miller,,0
+Jane,Davis,"5511 Pine Ln, Philadelphia, CA 14497",Jane,Davis,"5511 Pine Ln, Philadelphia, CA 14497",1
+Jane,Anderson,"6002 Redwood St, Dallas, PA 41077",Jane,Anderson,,0
+Dave,Johnson,"9597 Apple Dr, San Antonio, NY 30870",Dave,Johnson,,0
+Adam,Taylor,,Adam,Taylor,"2060 Redwood St, San Antonio, FL 10147",0
+Jane,Anderson,"3036 Cedar Ct, Philadelphia, IL 29080",Jane,Anderson,"3036 Cedar Ct, Philadelphia, IL 29080 Apt 12",1
+Mary,Johnson,"9533 Redwood St, Dallas, PA 83959",Mary,Johnson,,0
+Rob,Brown,"8866 Cedar Ct, San Antonio, MI 35534",Rob G.,Brown,"2155 Redwood St, Houston, GA 11108",0
+Karen,Smith,"2950 Apple Dr, San Diego, FL 12033",Karen,Smith,"7193 Maple Rd, San Jose, IL 84438",0
+Dave,Davis,,Dave C.,Davis,"9556 Redwood St, San Antonio, MI 80949",0
+Diana,Martinez,"5328 Birch Dr, Philadelphia, NC 30481",Diana,Martinez,,0
+Sarah,Taylor,"918 Cedar Ct, Chicago, MI 93109",Sarah,Taylor,"6624 Pine Ln, Philadelphia, NY 52922",0
+Karen,Wilson,"9981 Maple Rd, Philadelphia, MI 29937",Karen,Wilson,"9981 Maple Rd, Chicago, MI 29937",0
+Michael,Davis,"8070 Redwood St, Phoenix, IL 90332",Michael,Davis,"6258 Birch Dr, Chicago, CA 29097",0
+Adam,Johnson,"9717 Apple Dr, New York, IL 89637",Adam,Johnson,,0
+Dave,Wilson,"6140 Sunset Blvd, Chicago, CA 74967",Dave,Wilson,"6140 Sunset Blvd, Chicago, CA 74967",1
+Karen,Brown,"9754 Elm Street, Chicago, NC 31384",Karen,Brown,,0
+John,Anderson,,John,Anderson,"8663 Maple Rd, San Diego, AZ 63952",0
+Michael,Davis,"7457 Apple Dr, Houston, CA 16771",Michael,Davis,"7457 Apple Dr, Houston, CA 16771",1
+Rob,Williams,"5876 Apple Dr, San Jose, TX 68161",Rob,Williams,"5876 Apple Dr, San Jose, TX 68161",1
+Diana,Smith,"7374 Birch Dr, New York, NY 76196",Diana K.,Smith,"5170 Birch Dr, Los Angeles, PA 57635",0
+Sarah,Kim,"6633 Elm Street, Chicago, CA 70690",Sarah C.,Kim,"2316 Valley Rd, San Antonio, AZ 58304",0
+Anna,Williams,"4990 Oak Ave, San Diego, FL 27615",Anna,Williams,"8013 Cedar Ct, Los Angeles, NC 31640",0
+Michael,Johnson,"9270 Cedar Ct, Chicago, NY 64990",Michael,Johnson,,0
+Dave,Anderson,"4960 Redwood St, San Jose, GA 31261",Dave,Anderson,"4960 Redwood St, San Jose, GA 31261",1
+Dave,Wilson,"2499 Birch Dr, New York, NY 87579",Dave,Wilson,"2499 Birch Dr, New York, NY 87579 Apt 11",1
+Michael,Kim,"1528 Sunset Blvd, Houston, CA 61160",Michael,Kim,"2740 Cedar Ct, Chicago, MI 56024",0
+Sarah,Wright,"4286 Pine Ln, Philadelphia, CA 22563",Sarah,Wright,"4286 Pine Ln, Philadelphia, CA 22563",1
+Adam,Wright,"1294 Birch Dr, New York, NC 19801",Adam,Wright,"1294 Birch Dr, Houston, NC 19801",0
+Sarah,Wright,"2936 Maple Rd, San Diego, NY 10506",Sarah,Wright,,0
+Marcus,Allen,"6386 Birch Dr, Philadelphia, FL 21269",Marcus,Allen,"6386 Birch Dr, Philadelphia, FL 21269",1
+John,Johnson,"7457 Apple Dr, Los Angeles, NY 82336",John C.,Johnson,"4238 Oak Ave, Phoenix, PA 70784",0
+John,Kim,"9535 Redwood St, Dallas, GA 90262",John,Kim,"9535 Redwood St, Dallas, GA 90262",1
+Marcus,Wright,"3756 Elm Street, Houston, NY 42166",Marcus,Wright,"1654 Apple Dr, San Diego, TX 23418",0
+Maria,Davis,"4823 Elm Street, San Jose, FL 96551",Maria,Davis,"4823 Elm Street, San Jose, FL 96551",1
+Jane,Smith,,Jane,Smith,,1
+Maria,Kim,"1551 Birch Dr, San Jose, PA 38291",Maria B.,Kim,"1169 Maple Rd, Chicago, NY 91554",0
+Anna,Smith,"4252 Maple Rd, Dallas, NY 49319",Anna,Smith,"4252 Maple Rd, Dallas, NY 49319",1
+Diana,Wilson,"8262 Pine Ln, Chicago, NC 40581",Diana,Wilson,"1299 Elm Street, San Antonio, AZ 78341",0
+Dave,Kim,"2901 Oak Ave, San Jose, FL 59294",Dave,Kim,"2901 Oak Ave, New York, FL 59294",0
+Karen,Wright,,Karen,Wright,,0
+Karen,Taylor,"7093 Oak Ave, San Antonio, FL 88195",Karen,Taylor,"7093 Oak Ave, San Antonio, FL 88195 Apt 37",1
+Mary,Brown,"1034 Birch Dr, Houston, CA 78607",Mary,Brown,"1034 Birch Dr, Houston, CA 78607 Apt 36",1
+Rob,Allen,"224 Sunset Blvd, Houston, CA 89384",Rob,Allen,"1776 Cedar Ct, New York, NC 67015",0
+Karen,Anderson,"7094 Elm Street, San Diego, AZ 10555",Karen,Anderson,"7094 Elm Street, Los Angeles, AZ 10555",0
+Rob,Martinez,"1942 Oak Ave, San Antonio, GA 44817",Rob,Martinez,"1942 Oak Ave, San Antonio, GA 44817",1
+Dave,Martinez,"5068 Elm Street, Los Angeles, MI 34872",Dave,Martinez,"7614 Pine Ln, Phoenix, NC 36758",0
+Sarah,Taylor,,Sarah,Taylor,,0
+Maria,Wilson,"7630 Elm Street, Houston, NC 29851",Maria,Wilson,"7630 Elm Street, Houston, NC 29851",1
+Dave,Anderson,"109 Pine Ln, Phoenix, GA 62498",Dave,Anderson,"109 Pine Ln, Chicago, GA 62498",0
+Maria,Allen,,Maria,Allen,,1
+Marcus,Davis,"5908 Birch Dr, San Jose, NY 33102",Marcus,Davis,,0
+Mary,Lee,,Mary,Lee,"5661 Sunset Blvd, San Diego, IL 23461",0
+Jane,Allen,"2269 Redwood St, Houston, PA 21502",Jane,Allen,,0
+Anna,Wright,"6034 Sunset Blvd, San Antonio, AZ 59298",Anna,Wright,,0
+Maria,Brown,"5926 Cedar Ct, Houston, TX 57779",Maria B.,Brown,,0
+Jane,Clark,"9966 Pine Ln, Philadelphia, GA 51719",Jane,Clark,,0
+Dave,Clark,"4833 Apple Dr, San Diego, CA 90358",Dave,Clark,,0
+John,Kim,"3069 Redwood St, Houston, MI 49002",John,Kim,"3069 Redwood St, Houston, MI 49002 Apt 12",1
+Adam,Wilson,,Adam,Wilson,,0
+Chris,Miller,"5076 Pine Ln, Chicago, CA 18419",Chris,Miller,"5076 Pine Ln, Chicago, CA 18419",1
+Jane,Johnson,,Jane,Johnson,"96 Redwood St, San Diego, CA 96316",0
+Anna,Wilson,"8036 Birch Dr, Dallas, FL 55218",Anna,Wilson,,0
+Jane,Smith,"843 Valley Rd, Philadelphia, TX 49877",Jane,Smith,"843 Valley Rd, Los Angeles, TX 49877",0
+Michael,Allen,"9267 Apple Dr, New York, NC 46862",Michael B.,Allen,,0
+Jane,Miller,"116 Birch Dr, Philadelphia, TX 62823",Jane,Miller,"116 Birch Dr, Philadelphia, TX 62823 Apt 3",1
+Marcus,Clark,"368 Elm Street, Houston, GA 17336",Marcus,Clark,"4293 Maple Rd, Dallas, NY 76558",0
+Michael,Lee,"1322 Redwood St, Los Angeles, NY 33788",Michael,Lee,,0
+Jane,Davis,"2794 Birch Dr, San Antonio, NY 67153",Jane,Davis,,0
+Mary,Wilson,"5527 Maple Rd, Philadelphia, AZ 41046",Mary,Wilson,,0
+Marcus,Martinez,,Marcus,Martinez,,0
+Sarah,Anderson,"127 Maple Rd, Chicago, AZ 65270",Sarah,Anderson,"127 Maple Rd, Chicago, AZ 65270",1
+Marcus,Kim,"2091 Valley Rd, Houston, CA 46281",Marcus,Kim,,0
+Jane,Lee,"3448 Redwood St, Chicago, AZ 25433",Jane,Lee,"5494 Cedar Ct, Phoenix, IL 37468",0
+Anna,Taylor,"2904 Pine Ln, San Jose, NY 18542",Anna,Taylor,"1613 Birch Dr, San Diego, PA 15009",0
+Sarah,Martinez,"4007 Sunset Blvd, Dallas, MI 96404",Sarah,Martinez,,0
+Michael,Miller,"2678 Birch Dr, San Diego, MI 58260",Michael J.,Miller,"2776 Redwood St, Dallas, GA 65740",0
+Lisa,Anderson,"8854 Sunset Blvd, Philadelphia, FL 35949",Lisa J.,Anderson,"2889 Pine Ln, Los Angeles, NC 27359",0
+Maria,Brown,"6094 Elm Street, Los Angeles, PA 40543",Maria A.,Brown,"1202 Oak Ave, San Antonio, IL 32585",0
+Maria,Davis,"9016 Apple Dr, Los Angeles, IL 81252",Maria,Davis,,0
+Chris,Smith,"1107 Elm Street, Chicago, AZ 65145",Chris,Smith,,0
+Dave,Miller,,Dave,Miller,"914 Birch Dr, Houston, AZ 14300",0
+Anna,Anderson,"2052 Apple Dr, New York, AZ 35343",Anna G.,Anderson,"8570 Cedar Ct, Phoenix, PA 27968",0
+Lisa,Davis,,Lisa,Davis,,1
+Chris,Clark,"7502 Valley Rd, San Antonio, NC 56025",Chris,Clark,"7502 Valley Rd, San Diego, NC 56025",0
+Dave,Johnson,"2039 Cedar Ct, Los Angeles, GA 68760",Dave,Johnson,"2039 Cedar Ct, Los Angeles, GA 68760 Apt 18",1
+John,Wright,"4866 Cedar Ct, San Diego, MI 20421",John,Wright,"4866 Cedar Ct, San Diego, MI 20421",1
+Rob,Martinez,"8312 Oak Ave, New York, PA 41709",Rob E.,Martinez,"5213 Pine Ln, New York, FL 31911",0
+Diana,Clark,,Diana G.,Clark,"8226 Valley Rd, Phoenix, AZ 90637",0
+Mary,Wright,"6698 Elm Street, San Diego, MI 58635",Mary G.,Wright,"8365 Elm Street, San Jose, FL 42031",0
+Lisa,Williams,"4583 Maple Rd, San Antonio, PA 37809",Lisa,Williams,"4583 Maple Rd, San Antonio, PA 37809",1
+Michael,Allen,"4946 Apple Dr, San Antonio, NC 14064",Michael,Allen,,0
+Diana,Davis,"1970 Valley Rd, Dallas, TX 31659",Diana,Davis,,0
+Rob,Clark,"7312 Pine Ln, San Diego, FL 63958",Rob,Clark,"7312 Pine Ln, San Diego, FL 63958",1
+Sarah,Kim,,Sarah,Kim,,1
+Michael,Taylor,"3842 Apple Dr, New York, NC 24131",Michael F.,Taylor,,0
+Sarah,Brown,"1428 Elm Street, San Diego, AZ 36667",Sarah,Brown,"1428 Elm Street, San Antonio, AZ 36667",0
+Chris,Clark,"848 Maple Rd, Chicago, CA 15512",Chris D.,Clark,"4781 Birch Dr, Philadelphia, FL 95623",0
+Diana,Allen,"847 Pine Ln, Phoenix, PA 76399",Diana,Allen,,0
+Rob,Wilson,"3937 Sunset Blvd, Houston, NY 33885",Rob,Wilson,,0
+Lisa,Kim,"7376 Oak Ave, Dallas, IL 59427",Lisa,Kim,,0
+John,Miller,"148 Valley Rd, Los Angeles, NC 96411",John,Miller,,0
+Sarah,Anderson,"5521 Oak Ave, New York, NC 45417",Sarah D.,Anderson,"3405 Elm Street, Dallas, IL 86751",0
+Sarah,Martinez,,Sarah,Martinez,,1
+Marcus,Johnson,"4712 Valley Rd, San Antonio, GA 21916",Marcus G.,Johnson,"4034 Cedar Ct, New York, MI 30053",0
+John,Kim,"7647 Apple Dr, Houston, IL 14668",John,Kim,"7647 Apple Dr, Houston, IL 14668 Apt 49",1
+Anna,Martinez,"7840 Oak Ave, Los Angeles, NC 85703",Anna,Martinez,"7840 Oak Ave, Los Angeles, NC 85703 Apt 37",1
+Diana,Brown,"8134 Apple Dr, Phoenix, GA 10613",Diana,Brown,"8134 Apple Dr, Phoenix, GA 10613",1
+Sarah,Martinez,"7373 Apple Dr, San Diego, GA 56215",Sarah,Martinez,"7373 Apple Dr, San Jose, GA 56215",0
+Maria,Kim,"2313 Apple Dr, New York, NC 94103",Maria,Kim,,0
+Marcus,Allen,"1275 Oak Ave, New York, AZ 48291",Marcus,Allen,,0
+Diana,Kim,"8593 Redwood St, Los Angeles, IL 12585",Diana,Kim,"8593 Redwood St, Los Angeles, IL 12585",1
+Chris,Davis,,Chris,Davis,,0
+Adam,Kim,"9461 Elm Street, San Antonio, AZ 53044",Adam,Kim,"9461 Elm Street, San Antonio, AZ 53044 Apt 39",1
+Rob,Wilson,"3982 Sunset Blvd, New York, NY 47378",Rob,Wilson,,0
+Mary,Taylor,"9875 Sunset Blvd, Phoenix, IL 81773",Mary,Taylor,"1513 Sunset Blvd, San Diego, AZ 89470",0
+Sarah,Wright,"8236 Cedar Ct, San Antonio, MI 56278",Sarah D.,Wright,"3149 Oak Ave, Los Angeles, PA 90601",0
+Michael,Davis,"422 Sunset Blvd, San Antonio, CA 65981",Michael,Davis,"8041 Apple Dr, Dallas, GA 58058",0
+Adam,Williams,"8899 Cedar Ct, Chicago, FL 47455",Adam,Williams,"4811 Pine Ln, San Diego, AZ 65239",0
+Jane,Williams,"3272 Pine Ln, Dallas, IL 10020",Jane,Williams,,0
+Rob,Martinez,"2946 Pine Ln, San Jose, TX 11143",Rob,Martinez,"2946 Pine Ln, San Jose, TX 11143",1
+Michael,Kim,,Michael,Kim,,0
+Dave,Williams,,Dave,Williams,,0
+Adam,Taylor,"7107 Valley Rd, Phoenix, AZ 63839",Adam B.,Taylor,"5765 Pine Ln, San Jose, IL 75816",0
+Anna,Clark,"3716 Pine Ln, Chicago, CA 68613",Anna,Clark,"3429 Valley Rd, Chicago, NC 14853",0
+Adam,Clark,"4265 Oak Ave, San Jose, FL 52420",Adam,Clark,,0
+Michael,Smith,"6508 Apple Dr, San Jose, IL 80585",Michael E.,Smith,"7683 Apple Dr, Los Angeles, FL 83114",0
+Marcus,Taylor,"9059 Elm Street, Houston, GA 58885",Marcus G.,Taylor,"9348 Valley Rd, New York, GA 22141",0
+John,Davis,"6058 Birch Dr, San Antonio, IL 93756",John,Davis,"7783 Elm Street, San Antonio, IL 73874",0
+John,Brown,"8892 Elm Street, San Antonio, MI 19302",John,Brown,,0
+Karen,Wilson,"7061 Oak Ave, San Diego, NC 19385",Karen C.,Wilson,"3744 Pine Ln, San Diego, NC 97453",0
+Anna,Wright,"3162 Pine Ln, San Jose, CA 56596",Anna B.,Wright,"1713 Apple Dr, New York, NY 65356",0
+Rob,Clark,"1123 Apple Dr, Chicago, FL 76318",Rob,Clark,,0
+Rob,Taylor,"7867 Sunset Blvd, Houston, IL 93685",Rob,Taylor,,0
+Anna,Kim,"7505 Oak Ave, San Diego, NY 32339",Anna,Kim,"7505 Oak Ave, Phoenix, NY 32339",0
+Chris,Wilson,"5732 Pine Ln, San Diego, CA 94975",Chris,Wilson,"974 Redwood St, Chicago, CA 43528",0
+Michael,Clark,"2941 Valley Rd, Philadelphia, IL 45785",Michael,Clark,"2803 Oak Ave, Houston, IL 47444",0
+Anna,Kim,"7546 Cedar Ct, Philadelphia, TX 51015",Anna F.,Kim,"2952 Apple Dr, Los Angeles, TX 15412",0
+Michael,Martinez,"8803 Redwood St, San Antonio, CA 32802",Michael,Martinez,"8803 Redwood St, San Antonio, CA 32802",1
+Chris,Brown,"7947 Apple Dr, Los Angeles, GA 68236",Chris,Brown,"7947 Apple Dr, Houston, GA 68236",0
+Sarah,Allen,"2405 Pine Ln, Los Angeles, AZ 16741",Sarah,Allen,,0

@@ -1,0 +1,23 @@
+prompt_template: |
+  Employee Record:
+    Name: "{employee_name}"
+    Address: "{employee_address}"
+
+  Contributions:
+  {contributions_list}
+
+  Please evaluate each contribution record and determine if it is a valid contribution for the employee or a false positive.
+  
+  When making your determination, consider the following guidelines:
+    - The contributor's name should closely match the employee's name. Minor differences (e.g., additional middle initials, common nicknames, or punctuation variations) can be acceptable.
+    - The contributor's address should be very similar or identical to the employee's address. Significant differences in address formatting or details may indicate a false positive.
+    - The amount and recipient fields provide additional context, but the primary focus should be on matching the employee’s name and address.
+    - If the contributor's name and/or address differ significantly from the employee record, classify the contribution as a false positive.
+
+  Output your answer as a JSON array of objects. Each object should include:
+    - "contributor_name": The contributor's name.
+    - "contributor_address": The contributor's address.
+    - "amount": The contribution amount.
+    - "recipient": The recipient's name.
+    - "status": The current status of the contribution.
+    - "match": true if the contribution is a valid match for the employee; false otherwise.

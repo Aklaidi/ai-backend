@@ -1,0 +1,58 @@
+employee_first_name,employee_last_name,employee_address,contributor_first_name,contributor_last_name,contributor_address,label
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,Smith,"47 W 13th St, New York, NY 10011, USA",1
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,Smythe,"47 W 13th St, New York, NY 10011, USA",0
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,Smith,"789 Maple Rd, New York, NY 10011, USA",0
+John,Smith,"Test",John,J.Smith,"Test",1
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,M. Smith,"Ciu Ciu",0
+Mary,Johnson,"45 Apple Dr, New York, NY 10011, USA",Mary,Johnson,"45 Apple Dr, New York, NY 10011, USA",1
+Mary,Johnson,"45 Apple Dr, New York, NY 10011, USA",Mary,Johnston,"45 Apple Dr, New York, NY 10011, USA",0
+Adam,Brown,"10 Elm Street, Boston, MA 02108",Adam,Brown,"10 Elm Street, Boston, MA 02108",1
+Adam,Brown,"10 Elm Street, Boston, MA 02108",Adam,Brown,"10 Elm Street Apt 3, Boston, MA 02108",1
+Sarah,Clark,"50 Apple Blvd, Los Angeles, CA 90001",Sarah,Clark,"50 Apple Blvd, Los Angeles, CA 90001",1
+Sarah,Clark,"50 Apple Blvd, Los Angeles, CA 90001",Sarah,Clarke,"50 Apple Blvd, Los Angeles, CA 90001",0
+Michael,Smith,"500 Oak Ave, San Jose, CA 95112",Michael,Smith,"500 Oak Ave, San Jose, CA 95112",1
+Michael,Smith,"500 Oak Ave, San Jose, CA 95112",Michaela,Smith,"500 Oak Ave, San Jose, CA 95112",0
+Mike,Smith,"500 Oak Avenue, San Jose, CA 95112",Mike,Smith,"500 Oak Ave, San Jose, CA 95112",1
+Mike,Smith,"500 Oak Avenue, San Jose, CA 95112",Mark,Smith,"500 Oak Avenue, San Jose, CA 95112",0
+Jane,Carpenter,"99 Pine Lane, Chicago, IL 60605",Jane,Carpenter,"99 Pine Lane, Chicago, IL 60605",1
+Jane,Carpenter,"99 Pine Lane, Chicago, IL 60605",Jane,Carpenter,"99 Pine Lane Apt 5, Chicago, IL 60605",1
+Jane,Carpenter,"99 Pine Lane, Chicago, IL 60605",Janet,Carpenter,"99 Pine Lane, Chicago, IL 60605",0
+Jane,Carpenter,"99 Pine Lane, Chicago, IL 60605",Jane,Carpenter,"",0
+Maria,L. Johnson,"101 Birch Dr, Philadelphia, PA 19103",Maria,L. Johnson,"101 Birch Drive, Philadelphia, PA 19103",1
+Maria,L. Johnson,"101 Birch Dr, Philadelphia, PA 19103",Maria,T. Johnson,"101 Birch Dr, Philadelphia, PA 19103",0
+Dave,Park,"777 Maple St, Dallas, TX 75201",Dave,Park,"777 Maple St, Dallas, TX 75201",1
+Dave,Park,"777 Maple St, Dallas, TX 75201",David,Park,"777 Maple Street, Dallas, TX 75201",0
+Anna,Lee,"5 Pine Ln, Seattle, WA 98101",Anna,Lei,"5 Pine Lane, Seattle, WA 98101",1
+Anna,Lee,"5 Pine Ln, Seattle, WA 98101",Ann,Lee,"",0
+John,Smith,"123 Redwood St, New York, NY 10011, USA",John,Smith,"123 Redwood St Apt 3, New York, NY 10011, USA",1
+John,Smith,"123 Redwood St, New York, NY 10011, USA",John,Smith,"789 Maple Rd, New York, NY 10011, USA",0
+Jane,Doe,"45 Apple Dr Apt A, Miami, FL 33101",Jane,Doe,"45 Apple Dr Apt A, Miami, FL 33101",1
+Jane,Doe,"45 Apple Dr Apt A, Miami, FL 33101",Jane,Doe,"45 Apple Dr Apt B, Miami, FL 33101",0
+Michael,Brown,"10 Elm St Apt 3, Denver, CO 80202",Michael,Brown,"10 Elm St Apt 3, Denver, CO 80202",1
+Michael,Brown,"10 Elm St Apt 3, Denver, CO 80202",Michael,Browne,"10 Elm St Apt 3, Denver, CO 80202",0
+Sara,Johnson,"500 Oak Avenue Apt 2, Atlanta, GA 30303",Sara,Johnson,"500 Oak Avenue Apt 2, Atlanta, GA 30303",1
+Sara,Johnson,"500 Oak Avenue Apt 2, Atlanta, GA 30303",Sarah,Johnson,"500 Oak Avenue Apt 2, Atlanta, GA 30303",0
+Jon,Smith,"123 Redwood St, New York, NY 10011, USA",John,Smith,"123 Redwood St, New York, NY 10011, USA",0
+John,Smith,"123 Redwood St, New York, NY 10011, USA",Jon,Smith,"123 Redwood St Apt 2, New York, NY 10011, USA",0
+Maria,Reyes,"600 Maple Blvd, San Diego, CA 92101",Maria,Reyes,"600 Maple Blvd, San Diego, CA 92101",1
+Maria,Reyes,"600 Maple Blvd, San Diego, CA 92101",Mari,Reyes,"600 Maple Blvd, San Diego, CA 92101",0
+Chris,Allen,"250 Oak Rd, Orlando, FL 32801",Chris,Allen,"250 Oak Road, Orlando, FL 32801",1
+Chris,Allen,"250 Oak Rd, Orlando, FL 32801",Chris,Allan,"250 Oak Rd, Orlando, FL 32801",0
+Lisa,Martinez,"999 Apple Ln, Houston, TX 77001",Lisa,Martinez,"999 Apple Lane, Houston, TX 77001",1
+Lisa,Martinez,"999 Apple Ln, Houston, TX 77001","",L. Martinez,"999 Apple Ln, Houston, TX 77001",0
+Marcus,Kim,"103 Cedar Ct, San Francisco, CA 94102",Marcus,Kim,"103 Cedar Ct Apt 2, San Francisco, CA 94102",1
+Marcus,Kim,"103 Cedar Ct, San Francisco, CA 94102",Marcus,K. Kim,"103 Cedar Ct, San Francisco, CA 94102",0
+Karen,Wright,"45 Apple Dr Ste A, Boston, MA 02110",Karen,Wright,"45 Apple Dr Ste A, Boston, MA 02110",1
+Karen,Wright,"45 Apple Dr Ste A, Boston, MA 02110",Karen,Wright,"10 Elm Street, Boston, MA 02110",0
+Rob,Green,"20 Valley Rd, Detroit, MI 48201",Robert,Green,"20 Valley Rd, Detroit, MI 48201",0
+Rob,Green,"20 Valley Rd, Detroit, MI 48201",Rob,Green,"20 Valley Rd Apt 1, Detroit, MI 48201",1
+Rob,Green,"20 Valley Rd, Detroit, MI 48201",Rob, Ujku Green,"Athens, Greece",0
+Diana,Evans,"555 Oak Ave, Phoenix, AZ 85001",Diana,Evans,"555 Oak Ave, Phoenix, AZ 85001",1
+Diana,Evans,"555 Oak Ave, Phoenix, AZ 85001",Diana,Beasley Evans,"SArande, Albania",0
+Diana,Evans,"555 Oak Ave, Phoenix, AZ 85001",Diana,Evans,"",0
+Mark,Flores,"777 Maple St Apt 6, San Antonio, TX 78201",Mark,Flores,"777 Maple St Apt 6, San Antonio, TX 78201",1
+Mark,Flores,"777 Maple St Apt 6, San Antonio, TX 78201",Mark,Flores,"777 Maple St Apt 5, San Antonio, TX 78201",0
+Carol,Johnson,"333 Pine Ln, Columbus, OH 43215",Carol,Johnson,"333 Pine Ln, Columbus, OH 43215",1
+Carol,M.Johnson,"333 Pine Ln, Columbus, OH 43215",Carol,M. Johnson,"333 Pine Ln, Columbus, OH 43215",1
+Carol,M.Johnson,"333 Pine Ln, Columbus, OH 43215",Carol,Johnson,"333 Pine Ln, Columbus, OH 43215",1
+Carol,Johnson,"333 Pine Ln, Columbus, OH 43215",Carol,Johnston,"333 Pine Ln, Columbus, OH 43215",0

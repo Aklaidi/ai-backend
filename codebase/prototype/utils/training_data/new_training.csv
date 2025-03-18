@@ -1,0 +1,32 @@
+employee_first_name,employee_last_name,employee_address,contributor_first_name,contributor_last_name,contributor_address,label
+Maria,F. Calas,"Bulevardi Zogu i Pare",Maria,F. Calas,"Bulevardi Zogu i Pare",1
+Maria,F. Calas,"Bulevardi Zogu i Pare",Maria,Calas,"Bulevardi Zogu i Pare",1
+Maria,F. Calas,"Bulevardi Zogu i Pare",Maria,F. Calas,"",0
+Maria,F. Calas,"Bulevardi Zogu i Pare",Maria,Ujku Calas,"",0
+Maria,F. Calas,"Bulevardi Zogu i Pare",Maria,M. Calas,"",0
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,Smith,"47 W 13th St, New York, NY 10011, USA",1
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,Test Smith,"47 W 13th St, New York, NY 10011, USA",1
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,M. Smith,"47 W 13th St, New York, NY 10011, USA",1
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,Beasley Smith,"Ujku Plak",0
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,J.Smith,"KNP",0
+John,Smith,"47 W 13th St, New York, NY 10011, USA",John,Smith,"47 W 13th St, New York, NY 10011, USA...",1
+Alice,Johnson,"123 Main St, Springfield, IL 62704",Alice,Johnson,"123 Main St, Springfield, IL 62704",1
+Alice,Johnson,"123 Main St, Springfield, IL 62704",Alicia,Johnson,"123 Main St, Springfield, IL 62704",0
+Alice,Johnson,"123 Main St, Springfield, IL 62704",Alice,Johnson,"",0
+Alice,Johnson,"123 Main St, Springfield, IL 62704",Alice,Johnson," 123 Main St, Springfield, IL 62704 ",1
+Bob,Miller,"789 Elm St, Gotham, NY 10001",Bob,Miller,"789 Elm St, Gotham, NY 10001",1
+Bob,Miller,"789 Elm St, Gotham, NY 10001",Bob,Miller,"789 Elm Street, Gotham, NY 10001",1
+Bob,Miller,"789 Elm St, Gotham, NY 10001",Robert,Miller,"789 Elm St, Gotham, NY 10001",0
+Bob,Miller,"789 Elm St, Gotham, NY 10001",Bob,Miller,"",0
+Charlie,Brown,"1600 Pennsylvania Ave, Washington, DC 20500",Charlie,Brown,"1600 Pennsylvania Ave, Washington, DC 20500",1
+Charlie,Brown,"1600 Pennsylvania Ave, Washington, DC 20500",Charles,Brown,"1600 Pennsylvania Ave, Washington, DC 20500",0
+Charlie,Brown,"1600 Pennsylvania Ave, Washington, DC 20500",Charlie,Brown,"1600 Pennsylvania Ave, Washington, DC 20500 Apt 1",0
+Emily,Davis,"456 Park Ave, New York, NY 10022",Emily,Davis,"456 Park Ave, New York, NY 10022",1
+Emily,Davis,"456 Park Ave, New York, NY 10022",Emily,Davis,"",0
+Emily,Davis,"456 Park Ave, New York, NY 10022",Emma,Davis,"456 Park Ave, New York, NY 10022",0
+Laura,Smith,"123 Example St, Anytown, ST",Laura,Smith,"123 Example St, Anytown, ST",1
+Laura,Smith,"123 Example St, Anytown, ST",Laura,Test Smith,"",0
+David,Jones,"456 Another Rd, Sometown, ST",David,Jones,"456 Another Rd, Sometown, ST",1
+David,Jones,"456 Another Rd, Sometown, ST",David,Test Jones,"456 Another Rd, Sometown, ST Apt 1",0
+Robert,Brown,"789 West Ave, Metropolis, ST",Robert,Brown,"789 West Ave, Metropolis, ST",1
+Robert,Brown,"789 West Ave, Metropolis, ST",Robert,Test Brown,"",0

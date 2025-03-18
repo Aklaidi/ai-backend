@@ -1,0 +1,13 @@
+django
+django-ninja
+python-status==1.0.1
+django-cors-headers==4.7.0
+psycopg2-binary==2.9.9
+faker==36.1.1
+PyYAML==6.0.2
+openai==1.65.5
+pandas==2.2.3
+numpy==2.2.3
+scikit-learn==1.6.1
+joblib==1.4.2
+sentence-transformers
